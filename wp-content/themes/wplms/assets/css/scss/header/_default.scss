@@ -1,0 +1,372 @@
+/**
+ * File: header.scss
+ * Description : Contains all styling for the WPLMS Headers
+ * Author: Mr.Vibe 
+ * Credits: www.VibeThemes.com
+ * Project: WPLMS
+ * version 2.0
+ **/
+/*========================================================================*/
+/*   TABLE OF CONTENT
+/*========================================================================*/
+/*
+/*    01. DEFAULTS
+/*    02. TOP HEADER 
+/*    02. MAIN HEADER 
+/*    03. HEADER VARIATION 1
+/*    04. HEADER VARIATION 2
+/*    05. HEADER VARIATION 3
+/*
+/*========================================================================*/
+/*   01. DEFAULTS
+/*========================================================================*/
+
+
+/*========================================================================*/
+/*   01. HEADER & NAVIGATION
+/*========================================================================*/
+
+header{
+	display: inline-block;
+	position:relative;
+	width:100%;
+	background:#313B3D;
+	padding:0;
+	margin:0 0 -5px 0;
+	z-index: 99;
+}
+
+
+
+/*========================================================================*/
+/*   01. HEADER SEARCH
+/*========================================================================*/
+
+
+#searchdiv{
+	display: none;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.8);
+    z-index: 99;
+    padding:10%;
+    cursor:crosshair;
+    input[type="text"]{
+        background: none;
+	    border: none;border-radius:none;
+	    border-bottom: 3px solid rgba(255,255,255,0.2);
+	    font-size: 6rem;
+	    color:#fff;
+    }
+}
+
+#searchdiv > span{
+	width: 64px;
+    height: 64px;
+    display: block;
+    margin: 20vh auto 0;
+    &:before{
+	    content: "\f00d";
+	    font-family: fontawesome;
+	    font-size: 48px;
+	    color: #fff;
+    }
+}
+    
+.search_active #searchdiv{display:block;}
+/*========================================================================*/
+/*   01. TOP HEADER
+/*========================================================================*/
+
+
+#headertop{
+	background:#232b2d;
+	padding:8px 0;
+	font-size:11px;
+	text-transform: uppercase;
+	color:rgba(255,255,255,0.6);
+	.homeicon{
+		display: none;
+	}
+	&.fixed{
+		position: fixed;
+		width:100%;
+		top:0;
+		left:0;
+		z-index:9999;
+		-webkit-transition: all 0.5s;
+		-webkit-transform: translateZ(0); 
+		transition: all 0.5s;
+		.homeicon{
+			display: block; 
+			float:left;
+			img{
+				max-height: 20px;
+				width:auto;
+			}
+		}
+	}
+	li{
+		float:left;
+		margin-left:10px;
+		padding-left:10px;
+		border-left:1px solid #576972;
+		&:first-child{
+			border:none;
+		}
+	}
+	a{
+		color:rgba(255,255,255,0.6);
+	}
+	#username a{
+		word-break: break-all;
+	}
+
+	&.fixed + header{
+		margin-top:36px;
+	}
+	.socialicons{
+		float:right;
+		li{
+			padding:8px 0;
+		}
+	}
+}
+
+.topmenu{
+	float:right;
+	.vbplogin{
+		position: relative;
+		em{
+		    position: absolute;
+		    top: -3px;
+		    left: -3px;
+		    width: 6px;
+		    height: 6px;
+		    background: #78c8c9;
+		    border-radius: 50%;
+		}
+	}
+}
+.sleek,.mooc{
+	.topmenu{
+		.vbplogin{
+			em{
+			    top: 22px;
+			    left: 3px;
+			}
+		}
+	}
+}
+
+/*========================================================================*/
+/*   01. MOBILE MENU TRIGGER
+/*========================================================================*/
+
+#trigger{
+	cursor:pointer;
+	display: none;
+	position:absolute;
+	top:40px;
+	right:50px;
+	padding: 10px;
+	margin:-10px 0 0;
+	border:none;
+	z-index: 99;
+	user-select: none;
+	background:transparent;
+	.lines {
+	  display: inline-block;
+	  position: relative;	
+	  width: 32px;
+	  height: 4px;
+	  background: #FFF;
+	  color: #FFF;
+	  /* Not in use when the colors are specified below */
+	  transition: 0.3s;
+	  	&:before, &after {
+			display: inline-block;
+			width: 32px;
+			height: 4px;
+			background: #FFF;
+			transition: 0.3s;
+			position: absolute;
+			left: 0;
+			content: '';
+			-webkit-transform-origin: 6px center;
+			transform-origin: 6px center;
+		}
+		&:after {
+			top: -8px;
+		}
+
+		&:before {
+			top: 8px;
+		}
+	}
+}
+
+.open #trigger{
+	.lines{
+		background:transparent !important;
+		&:before, 
+		&:after {
+			-webkit-transform-origin: 50% 50%;
+			transform-origin: 50% 50%;
+			top: 0;
+			width: 32px;
+		}
+
+		&:before {
+			-webkit-transform: rotate3d(0, 0, 1, 45deg);
+			transform: rotate3d(0, 0, 1, 45deg);
+		}
+		&:after {
+			-webkit-transform: rotate3d(0, 0, 1, -45deg);
+			transform: rotate3d(0, 0, 1, -45deg);
+		}
+	}
+}
+
+
+/*========================================================================*/
+/*   01. MAIN HEADER
+/*========================================================================*/
+
+
+.pusher {
+	position: relative;
+	left: 0;
+	width: 100%;
+	display:block;
+	-webkit-transition: -webkit-transform 0.5s;
+	transition: transform 0.5s;
+	&::after{
+	    position: absolute;
+		top: 0;
+		right: 0;
+		width: 0;
+		height: 0;
+		content: '';
+		opacity: 0;
+		over-y:hidden;
+		transition: opacity 0.5s, width 0.1s 0.5s, height 0.1s 0.5s;
+	}
+}
+
+.open{
+	.pusher {
+		transform: translate3d(-220px, 0, 0);
+		&::after{
+			width: 100%;
+		    height:100%;
+		    opacity: 1;
+			transition: opacity 0.5s;
+		}
+	}
+}
+.login_open{
+	.pusher {
+		transform: translate3d(220px, 0, 0);
+		&::after{
+			width: 100%;
+		    height:100%;
+		    opacity: 1;
+			transition: opacity 0.5s;
+		}
+	}
+}
+
+
+/*========================================================================*/
+/*   03. SIDE LOGO
+/*========================================================================*/
+
+
+.pagesidebar {
+	z-index: 1;
+	overflow-y:auto;
+	overflow-x:hidden;
+    color:#eee;
+    &::after {
+		display: none;
+	}
+	.widget li > a{
+	    padding:4px 0;
+	    display: inline-block;
+	}
+}
+
+.open .pagesidebar {
+	visibility: visible;
+	-webkit-transition: -webkit-transform 0.5s;
+	transition: transform 0.5s;
+	box-shadow: inset 1px 0 0px rgba(0,0,0,0.1);
+    overflow-y:auto;
+}
+
+
+
+/*========================================================================*/
+/*   03. LOGO
+/*========================================================================*/
+
+
+#logo{
+	margin:6px 0 0;
+	padding:0;
+	transition: all 0.6s ease-in-out;
+	img{
+			max-height:48px;	
+			width:auto;
+	}
+}
+
+#vibe_bp_login {
+	text-align:left;
+	text-transform:uppercase;
+	#bpavatar+ul{
+		position: relative;
+		min-height: 102px;
+	}
+
+	li#admin_panel_icon{
+		position: absolute;
+		bottom: 0;
+		font-size: 16px;
+		right: 0;
+		text-align: right;
+		i{
+			padding: 4px 8px;
+			line-height: 0;
+		}
+	}
+}	
+
+
+/*========================================================================*/
+/*   03. SIDE LOGO
+/*========================================================================*/
+
+
+h2#sidelogo{
+	text-align: center;
+	max-height:32px;
+	margin-bottom:30px;
+	img{
+		display: inline-block;
+		max-height:32px;
+		opacity:0.2;
+	}
+	&:hover img{
+		opacity:1;
+	}
+}
+
+
+/*========================================================================*/
+/*   03. MISC
+/*========================================================================*/

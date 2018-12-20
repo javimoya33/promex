@@ -1,0 +1,44 @@
+/*
+Theme Name: WPLMS
+Theme URI: http://www.VibeThemes.com/
+Description: WPLMS is a Learning Management System for WordPress. The theme is deep integrated with BuddyPress and comes packed with the Course Module plugin. 
+Theme has very powerful features which are essential for a full fledges LMS. Theme utilizes maximum of both WordPress and BuddyPress and can be run on a large scale platform as well.
+Author: Mr.Vibe
+Author URI: http://www.VibeThemes.com/
+Version: 2.6.1
+License: Themeforest 
+License URI: http://themeforest.net/licenses
+Text Domain: vibe
+Tags: Education, LMS, eLearning, BuddyPress, WPLMS
+Domain Path: /languages/
+*/
+
+/*=== ADD Your Custom Changes here ===*/
+
+.block_media img{width:100%;}
+#basic-details-section h4:after{content:'';}
+.security-question-section input[type="number"]{border:1px solid #DDD;}
+.security-question-section+.submit{clear:both;}
+.content ul.question_options {
+clear: both;
+display: inline-block;
+width: 100%;
+list-style:none;
+}
+
+.block.courseitem.course4 .block_content .course_block_bottom .course_price{font-size:16px;margin:0;color:#29106b;
+
+.block.courseitem span.amount{font-size:16px !important;}
+.live-edit-sidebar,.live-edit-sidebar + .text-options{display: none;}
+
+@font-face {
+    font-family: 'open_sanscondensed_light';
+    src: url('http://localhost/promex/wp-content/uploads/opensanscondensed_light_macroman/OpenSans-CondLight-webfont.eot');
+    src: url('http://localhost/promex/wp-content/uploads/opensanscondensed_light_macroman/OpenSans-CondLight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://localhost/promex/wp-content/uploads/opensanscondensed_light_macroman/OpenSans-CondLight-webfont.woff') format('woff'),
+         url('http://localhost/promex/wp-content/uploads/opensanscondensed_light_macroman/OpenSans-CondLight-webfont.ttf') format('truetype'),
+         url('http://localhost/promex/wp-content/uploads/opensanscondensed_light_macroman/OpenSans-CondLight-webfont.svg#open_sanscondensed_light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

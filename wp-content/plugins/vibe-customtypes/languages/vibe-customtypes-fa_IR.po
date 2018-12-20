@@ -1,0 +1,5229 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vibe Custom Types\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-24 20:23+0530\n"
+"PO-Revision-Date: 2017-02-24 20:23+0530\n"
+"Last-Translator: Vibethemes <vibethemes@gmail.com>\n"
+"Language-Team: Vibethemes <vibethemes@gmail.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: autoupdate/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "نام کاربری Envato Marketplace خود را وارد کنید"
+
+#: autoupdate/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "لطفا  Envato Marketplace API Key خود را وارد کنید."
+
+#: autoupdate/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "API \"set\" یک پارامتر اجباری است"
+
+#: autoupdate/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr " \"شناسه آیتم \" Envato Marketplace یک پارامتر اجباری می باشد."
+
+#: autoupdate/class-plugin-update.php:376
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "خطا HTTP غیر مترقبه در درخواست API رخ داده است."
+
+#: autoupdate/class-plugin-update.php:376
+#: autoupdate/class-plugin-update.php:541
+msgid "Try again"
+msgstr "تلاش مجدد"
+
+#: autoupdate/class-plugin-update.php:417
+msgid "An unknown error occurred"
+msgstr "خطای ناشناخته رخ داده است"
+
+#: autoupdate/class-plugin-update.php:453
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+"این افزونه به روز شده است، اما نمی تواند دوباره فعال شود. لطفا آن را دستی "
+"فعال کنید.."
+
+#: autoupdate/class-plugin-update.php:454
+msgid "Plugin reactivated successfully. "
+msgstr "افزونه با موفقیت مجددا فعال شد."
+
+#: autoupdate/class-plugin-update.php:476
+msgid " Plugin Updates"
+msgstr "به روزرسانی های افزونه"
+
+#: autoupdate/class-plugin-update.php:515
+msgid "Username: "
+msgstr "نام کاربری:"
+
+#: autoupdate/class-plugin-update.php:519
+msgid "Email: "
+msgstr "ایمیل:"
+
+#: autoupdate/class-plugin-update.php:525
+msgid "Key: "
+msgstr "کلید:"
+
+#: autoupdate/class-plugin-update.php:531
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+"<p>بروزرسانی افزونه شما  <span style=\"color:green\">فعال است</span></p>"
+
+#: autoupdate/class-plugin-update.php:535
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p>ورودی شما <span style=\"color:red\"> معتبر نیست </span>, بروزرسانی "
+"اتوماتیک <span style=\"color:red\"> فعال نمیباشد </span>.</p>"
+
+#: autoupdate/class-plugin-update.php:536
+msgid "Edit Key"
+msgstr "ویرایش کلید"
+
+#: autoupdate/class-plugin-update.php:540
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p>قادر به تایید اعتبار بروزرسانی نمی باشد </p>"
+
+#: autoupdate/class-plugin-update.php:546
+msgid "Add Key"
+msgstr "افزودن کلید"
+
+#: autoupdate/class-plugin-update.php:632
+msgid "User name"
+msgstr "نام کاربری"
+
+#: autoupdate/class-plugin-update.php:638 includes/musettings.php:1236
+#: includes/musettings.php:1253 includes/musettings.php:1273
+#: includes/musettings.php:1290 metaboxes/meta_box.php:825
+msgid "Email"
+msgstr "ایمیل"
+
+#: autoupdate/class-plugin-update.php:647
+msgid "Themeforest User name ( for Auto-Updates )"
+msgstr "نام کاربری Themeforest  (برای بروزرسانی اتوماتیک )"
+
+#: custom-post-types.php:18
+msgid "Learning Management System"
+msgstr "سیستم مدیریت آموزش"
+
+#: custom-post-types.php:19 includes/permalinks.php:181
+msgid "Statistics"
+msgstr "آمار و گزارشات"
+
+#: custom-post-types.php:20 custom_meta_boxes.php:1269
+#: includes/profile_menu_dropdown_settings.php:406
+#: metaboxes/library/vibe-editor.php:2724
+#: metaboxes/library/vibe-editor.php:2746
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: custom-post-types.php:21
+msgid "Lms Tree"
+msgstr "درخت LMS"
+
+#: custom-post-types.php:73
+msgid "Course Category"
+msgstr "دسته بندی دوره"
+
+#: custom-post-types.php:74 custom-post-types.php:75
+msgid "Category"
+msgstr "دسته بندی"
+
+#: custom-post-types.php:76
+msgid "Add New Course Category"
+msgstr "افزودن دسته بندی جدید دوره "
+
+#: custom-post-types.php:77
+msgid "All Categories"
+msgstr "همه دسته بندی ها"
+
+#: custom-post-types.php:97 custom-post-types.php:98
+msgid "Courses"
+msgstr "دوره ها"
+
+#: custom-post-types.php:99 custom_meta_boxes.php:861
+#: includes/class.export.php:14 includes/permalinks.php:98
+#: includes/statistics.php:21 includes/statistics.php:752
+msgid "Course"
+msgstr "دوره"
+
+#: custom-post-types.php:100
+msgid "Add New Course"
+msgstr "افزودن دوره جدید"
+
+#: custom-post-types.php:101
+msgid "All Courses"
+msgstr "همه دوره ها"
+
+#: custom-post-types.php:122 custom-post-types.php:123
+msgid "Units"
+msgstr "جلسات"
+
+#: custom-post-types.php:124 includes/class.export.php:15
+#: includes/permalinks.php:134
+msgid "Unit"
+msgstr "جلسه"
+
+#: custom-post-types.php:125
+msgid "Add New Unit"
+msgstr "افزودن جلسه جدید"
+
+#: custom-post-types.php:126
+msgid "All Units"
+msgstr "همه جلسات"
+
+#: custom-post-types.php:146 custom-post-types.php:147
+#: custom-post-types.php:148 custom-post-types.php:231
+#: custom-post-types.php:232
+msgid "Tag"
+msgstr "برچسب"
+
+#: custom-post-types.php:149 custom-post-types.php:233
+msgid "Add New Tag"
+msgstr "افزودن برچسب جدید"
+
+#: custom-post-types.php:150 custom-post-types.php:234
+msgid "All Tags"
+msgstr "همه برچسب ها"
+
+#: custom-post-types.php:165 custom-post-types.php:166
+msgid "Quizes"
+msgstr "آزمون ها"
+
+#: custom-post-types.php:167 includes/class.export.php:16
+#: includes/permalinks.php:118
+msgid "Quiz"
+msgstr "آزمون"
+
+#: custom-post-types.php:168
+msgid "All Quizes"
+msgstr "همه آزمون ها"
+
+#: custom-post-types.php:187 custom-post-types.php:188
+#: custom-post-types.php:189
+msgid "Quiz type"
+msgstr " نوع آزمون"
+
+#: custom-post-types.php:190
+msgid "Add New Quiz type"
+msgstr "افزودن نوع آزمون جدید"
+
+#: custom-post-types.php:191
+msgid "All Quiz types"
+msgstr "همه انواع آزمون"
+
+#: custom-post-types.php:207 custom-post-types.php:208
+msgid "Question Bank"
+msgstr "بانک سوالات"
+
+#: custom-post-types.php:209 includes/class.export.php:17
+msgid "Question"
+msgstr "سوال"
+
+#: custom-post-types.php:210
+msgid "All Questions"
+msgstr "همه سوالات"
+
+#: custom-post-types.php:230
+msgid "Question Tag"
+msgstr "برچسب سوال"
+
+#: custom-post-types.php:254 custom-post-types.php:255
+msgid "Events"
+msgstr "رویدادها"
+
+#: custom-post-types.php:256
+msgid "Event"
+msgstr "رویداد"
+
+#: custom-post-types.php:257
+msgid "Add New Events"
+msgstr "افزودن رویداد جدید"
+
+#: custom-post-types.php:258
+msgid "All Events"
+msgstr "همه رویدادها"
+
+#: custom-post-types.php:278 custom-post-types.php:279
+#: custom-post-types.php:280
+msgid "Event type"
+msgstr "نوع رویداد"
+
+#: custom-post-types.php:281
+msgid "Add New Event type"
+msgstr "افزودن نوع رویداد جدید"
+
+#: custom-post-types.php:282
+msgid "All Event types"
+msgstr "همه انواع رویداد"
+
+#: custom-post-types.php:303 custom-post-types.php:304
+msgid "Assignments"
+msgstr "تکالیف"
+
+#: custom-post-types.php:305 includes/class.export.php:18
+#: includes/musettings.php:2476
+msgid "Assignment"
+msgstr "تکلیف"
+
+#: custom-post-types.php:306
+msgid "Add New Assignment"
+msgstr "افزودن تکلیف جدید"
+
+#: custom-post-types.php:307
+msgid "All Assignments"
+msgstr "همه تکالیف"
+
+#: custom-post-types.php:328 custom-post-types.php:329
+#: custom-post-types.php:330
+msgid "Assignment type"
+msgstr "نوع تکلیف"
+
+#: custom-post-types.php:331
+msgid "Add New Assignment type"
+msgstr "افزودن نوع تکلیف جدید"
+
+#: custom-post-types.php:332
+msgid "All Assignment types"
+msgstr "افزودن انواع تکالیف"
+
+#: custom-post-types.php:350 custom-post-types.php:351
+msgid "Payments"
+msgstr "پرداخت ها"
+
+#: custom-post-types.php:352
+msgid "Payment"
+msgstr "پرداخت"
+
+#: custom-post-types.php:353
+msgid "Add New Payment"
+msgstr "افزودن پرداخت جدید"
+
+#: custom-post-types.php:354
+msgid "Payouts"
+msgstr "پرداخت ها"
+
+#: custom-post-types.php:373 custom-post-types.php:375
+#: custom_meta_boxes.php:348
+msgid "Certificate Template"
+msgstr "قالب گواهی پایان دوره"
+
+#: custom-post-types.php:374
+msgid "Certificates Template"
+msgstr "قالب گواهی پایان دوره"
+
+#: custom-post-types.php:376
+msgid "Add New Certificate"
+msgstr "افزودن گواهی پایان دوره جدید"
+
+#: custom-post-types.php:377
+msgid "Certificate Templates"
+msgstr "قالب های گواهی پایان دوره"
+
+#: custom-post-types.php:396 custom-post-types.php:397
+#: custom-post-types.php:398
+msgid "Linkage"
+msgstr "پیوند"
+
+#: custom-post-types.php:399
+msgid "Add New Link"
+msgstr "افزودن لینک جدید"
+
+#: custom-post-types.php:400
+msgid "All Links"
+msgstr "همه لینک ها"
+
+#: custom-post-types.php:418 custom-post-types.php:419
+#: custom-post-types.php:420
+msgid "Level"
+msgstr "سطح"
+
+#: custom-post-types.php:421
+msgid "Add New Level"
+msgstr "افزودن سطح جدید"
+
+#: custom-post-types.php:422
+msgid "All Levels"
+msgstr "همه سطوح"
+
+#: custom-post-types.php:441 custom-post-types.php:442
+#: custom-post-types.php:443 custom_meta_boxes.php:924
+msgid "Location"
+msgstr "مکان"
+
+#: custom-post-types.php:444
+msgid "Add New Location"
+msgstr "افزودن موقعیت جدید"
+
+#: custom-post-types.php:445
+msgid "All Locations"
+msgstr "همه‌ی موقعیت ها"
+
+#: custom-post-types.php:468 custom-post-types.php:469
+msgid "Testimonials"
+msgstr "توصیه نامه ها"
+
+#: custom-post-types.php:470
+msgid "Testimonial"
+msgstr "توصیه نامه"
+
+#: custom-post-types.php:471
+msgid "All Testimonials"
+msgstr "همه توصیه نامه ها"
+
+#: custom-post-types.php:495 custom-post-types.php:496
+msgid "Popups"
+msgstr "پاپ آپ ها"
+
+#: custom-post-types.php:497
+msgid "Popup"
+msgstr "پاپ آپ"
+
+#: custom-post-types.php:498
+msgid "All Popups"
+msgstr "همه پاپ آپ ها"
+
+#: custom_meta_boxes.php:31
+msgid "Post Sub-Title"
+msgstr "زیر عنوان نوشته "
+
+#: custom_meta_boxes.php:32
+msgid "Post Sub- Title."
+msgstr "زیر عنوان نوشته "
+
+#: custom_meta_boxes.php:39
+msgid "Post Template"
+msgstr "قالب نوشته "
+
+#: custom_meta_boxes.php:40
+msgid "Select a post template for showing content."
+msgstr "انتخاب قالب نوشته برای نمایش محتوا"
+
+#: custom_meta_boxes.php:44
+msgid "Content on Left"
+msgstr "محتوا در راست"
+
+#: custom_meta_boxes.php:45
+msgid "Content on Right"
+msgstr "محتوا در چپ"
+
+#: custom_meta_boxes.php:46
+msgid "Full Width"
+msgstr "تمام عرض"
+
+#: custom_meta_boxes.php:51 custom_meta_boxes.php:152 custom_meta_boxes.php:163
+#: custom_meta_boxes.php:1071 metaboxes/library/vibe-editor.php:2402
+msgid "Sidebar"
+msgstr "نوار کناری"
+
+#: custom_meta_boxes.php:52 custom_meta_boxes.php:164
+#: custom_meta_boxes.php:1072
+msgid "Select a Sidebar | Default : mainsidebar"
+msgstr "انتخاب نوار کناری | پیش فرض : mainsidebar"
+
+#: custom_meta_boxes.php:58 custom_meta_boxes.php:116
+msgid "Show Page Title"
+msgstr "نمایش عنوان صفحه"
+
+#: custom_meta_boxes.php:59 custom_meta_boxes.php:117
+msgid "Show Page/Post Title."
+msgstr "نمایش عنوان نوشته/صفحه"
+
+#: custom_meta_boxes.php:64 custom_meta_boxes.php:77 custom_meta_boxes.php:91
+#: custom_meta_boxes.php:104 custom_meta_boxes.php:122
+#: custom_meta_boxes.php:145 custom_meta_boxes.php:198
+#: custom_meta_boxes.php:211 custom_meta_boxes.php:224
+#: custom_meta_boxes.php:238 custom_meta_boxes.php:252
+#: custom_meta_boxes.php:266 custom_meta_boxes.php:280
+#: custom_meta_boxes.php:294 custom_meta_boxes.php:340
+#: custom_meta_boxes.php:368 custom_meta_boxes.php:381
+#: custom_meta_boxes.php:394 custom_meta_boxes.php:407
+#: custom_meta_boxes.php:488 custom_meta_boxes.php:502
+#: custom_meta_boxes.php:572 custom_meta_boxes.php:698
+#: custom_meta_boxes.php:725 custom_meta_boxes.php:738
+#: custom_meta_boxes.php:773 custom_meta_boxes.php:830
+#: custom_meta_boxes.php:917 custom_meta_boxes.php:948
+#: custom_meta_boxes.php:961 custom_meta_boxes.php:1019
+#: custom_meta_boxes.php:1105
+msgid "Hide"
+msgstr ""
+
+#: custom_meta_boxes.php:66 custom_meta_boxes.php:79 custom_meta_boxes.php:93
+#: custom_meta_boxes.php:106 custom_meta_boxes.php:124
+#: custom_meta_boxes.php:147 custom_meta_boxes.php:200
+#: custom_meta_boxes.php:213 custom_meta_boxes.php:226
+#: custom_meta_boxes.php:240 custom_meta_boxes.php:254
+#: custom_meta_boxes.php:268 custom_meta_boxes.php:282
+#: custom_meta_boxes.php:296 custom_meta_boxes.php:342
+#: custom_meta_boxes.php:370 custom_meta_boxes.php:383
+#: custom_meta_boxes.php:396 custom_meta_boxes.php:409
+#: custom_meta_boxes.php:490 custom_meta_boxes.php:504
+#: custom_meta_boxes.php:574 custom_meta_boxes.php:700
+#: custom_meta_boxes.php:727 custom_meta_boxes.php:740
+#: custom_meta_boxes.php:775 custom_meta_boxes.php:832
+#: custom_meta_boxes.php:919 custom_meta_boxes.php:950
+#: custom_meta_boxes.php:963 custom_meta_boxes.php:1021
+#: custom_meta_boxes.php:1107
+msgid "Show"
+msgstr "نمایش"
+
+#: custom_meta_boxes.php:71
+msgid "Show Author Information"
+msgstr "نمایش اطلاعات نویسنده"
+
+#: custom_meta_boxes.php:72
+msgid "Author information below post content."
+msgstr "اطلاعات نویسنده زیر محتوای نوشته"
+
+#: custom_meta_boxes.php:85 custom_meta_boxes.php:139
+msgid "Show Breadcrumbs"
+msgstr "نمایش breadcrumbs"
+
+#: custom_meta_boxes.php:86 custom_meta_boxes.php:140
+msgid "Show breadcrumbs."
+msgstr "نمایش breadcrumbs."
+
+#: custom_meta_boxes.php:98
+msgid "Show Prev/Next Arrows"
+msgstr "نمایش نشانگرهای قبلی/ بعدی"
+
+#: custom_meta_boxes.php:99
+msgid "Show previous/next links on top below the Subheader."
+msgstr "نمایش لینک های قبلی/ بعدی در بالا و زیر Subheader."
+
+#: custom_meta_boxes.php:131
+msgid "Page Sub-Title"
+msgstr "زیرعنوان صفحه"
+
+#: custom_meta_boxes.php:132
+msgid "Page Sub- Title."
+msgstr "زیرعنوان صفحه."
+
+#: custom_meta_boxes.php:153
+msgid "Select Sidebar | Sidebar : mainsidebar"
+msgstr "انتخاب نوار کناری | نوار کناری : mainsidebar"
+
+#: custom_meta_boxes.php:171
+msgid "Total Duration of Course"
+msgstr "مجموع مدت زمان دوره"
+
+#: custom_meta_boxes.php:172
+#, php-format
+msgid "Duration of Course (in %s)"
+msgstr "مدت زمان دوره (به %s)"
+
+#: custom_meta_boxes.php:178
+msgid "Course Duration parameter"
+msgstr "پارامتر مدت زمان دوره"
+
+#: custom_meta_boxes.php:179 custom_meta_boxes.php:421
+#: custom_meta_boxes.php:686 custom_meta_boxes.php:844
+#: custom_meta_boxes.php:1093
+msgid "Duration parameter"
+msgstr "پارامتر مدت زمان"
+
+#: custom_meta_boxes.php:185
+msgid "Total number of Students in Course"
+msgstr "مجموع دانشجویان در دوره"
+
+#: custom_meta_boxes.php:186
+msgid "Total number of Students who have taken this Course."
+msgstr "مجموع دانشجویانی که در این دوره شرکت کرده اند."
+
+#: custom_meta_boxes.php:192
+msgid "Unit Completion Lock"
+msgstr ""
+
+#: custom_meta_boxes.php:193
+msgid "Previous Units/Quiz must be Complete before next unit/quiz access"
+msgstr ""
+
+#: custom_meta_boxes.php:205
+msgid "Offline Course"
+msgstr "دوره آفلاین"
+
+#: custom_meta_boxes.php:206
+msgid "Make this an Offline Course"
+msgstr "این را یک دوره آفلاین کن"
+
+#: custom_meta_boxes.php:218
+msgid "Show Unit content in Curriculum"
+msgstr "محتوای جلسه در دوره درسی را نشان بده"
+
+#: custom_meta_boxes.php:219
+msgid ""
+"Display units content in Course Curriculum, unit content visible in "
+"curriculum. ( Recommended for Offline Courses )"
+msgstr ""
+"نمایش محتوای جلسه در دوره درسی، محتوای جلسه در دوره درسی قابل قابل نمایش "
+"است. (پیشنهاد شده برای دوره های آفلاین)"
+
+#: custom_meta_boxes.php:232
+msgid "Hide Course Button after subscription"
+msgstr "مخفی کردن دکمه دوره بعد از اشتراک گرفتن"
+
+#: custom_meta_boxes.php:233
+msgid ""
+"Hide Start Course/Continue Course button after Course is subscribed by user. "
+"( Recommended for Offline Courses )"
+msgstr ""
+"دکمه شروع دوره/ادامه دوره را بعد از اشتراک توسط کاربر مخفی کن. (پیشنهاد شده "
+"برای دوره های آفلاین)"
+
+#: custom_meta_boxes.php:246
+msgid "Display Course Progress on Course home"
+msgstr " نمایش وضعیت ترقی دوره در صفحه خانه"
+
+#: custom_meta_boxes.php:247
+msgid ""
+"Display User Course progress on Course page. ( Recommended for Offline "
+"Courses )"
+msgstr ""
+" نمایش وضعیت ترقی دوره در صفحه دوره. (پیشنهاد شده برای دوره های آفلاین)"
+
+#: custom_meta_boxes.php:260
+msgid "Time based Course Progress "
+msgstr "وضعیت ترقی دوره بر حسب زمان"
+
+#: custom_meta_boxes.php:261
+msgid ""
+"Automatically generate course progress based on duration (number of months/"
+"weeks/days/hours) passed in course.( Recommended for Offline Courses )"
+msgstr ""
+"به طور خودکار وضعیت ترقی دوره را بر حسب زمان  (تعداد ماه ها/هفته ها/ روز ها/"
+"ساعت ها) گذشته در دوره تولید کن. (پیشنهاد شده برای دوره های آفلاین)"
+
+#: custom_meta_boxes.php:274
+msgid "Post Course Reviews from Course Home"
+msgstr "بررسی های نوشته دوره از دوره خانه"
+
+#: custom_meta_boxes.php:275
+msgid ""
+"Allow subscribed users to post Course reviews from Course home page. "
+"( Recommended for Offline Courses )"
+msgstr ""
+"اجازه به کاربران اشتراک گرفته برای بررسی دوره در صفحه دوره. (پیشنهاد شده "
+"برای دوره های آفلاین)"
+
+#: custom_meta_boxes.php:288
+msgid "Auto Evaluation"
+msgstr "ارزیابی خودکار"
+
+#: custom_meta_boxes.php:289
+msgid ""
+"Evalute Courses based on Quizzes scores available in Course (* Requires at "
+"least 1 Quiz in course)"
+msgstr ""
+"ارزیابی دوره ها بر مبنای نمرات اعلام شده آزمون ها (* دوره می بایست دارای "
+"حداقل یک آزمون باشد)"
+
+#: custom_meta_boxes.php:301
+msgid "Course Start Date"
+msgstr "تاریخ آغاز دوره"
+
+#: custom_meta_boxes.php:302
+msgid "Date from which Course Begins"
+msgstr "تاریخی که دوره آغاز می گردد"
+
+#: custom_meta_boxes.php:307
+msgid "Maximum Students in Course"
+msgstr "حداکثر تعداد دانشجویان در دوره"
+
+#: custom_meta_boxes.php:308
+msgid "Maximum number of students who can pursue the course at a time."
+msgstr "حداکثر تعداد دانشجویانی که می توانند همزمان در دوره شرکت کنند"
+
+#: custom_meta_boxes.php:313
+msgid "Excellence Badge"
+msgstr "نشان ممتازی"
+
+#: custom_meta_boxes.php:314
+msgid "Upload badge image which Students receive upon course completion"
+msgstr "آپلود تصویر نشانی که دانشجویان در بعد از اتمام دوره دریافت می کنند"
+
+#: custom_meta_boxes.php:320
+msgid "Badge Percentage"
+msgstr "درصد نشان"
+
+#: custom_meta_boxes.php:321
+msgid "Badge is given to people passing above percentage (out of 100)"
+msgstr ""
+"نشان به کسانی اعطاء می شود بیشتر از درصد مشخص شده کسب کرده اند (از 100)"
+
+#: custom_meta_boxes.php:327
+msgid "Badge Title"
+msgstr "عنوان نشان"
+
+#: custom_meta_boxes.php:328
+msgid "Title is shown on hovering the badge."
+msgstr "عنوان هنگام هاور روی نشان نمایش داده می شود."
+
+#: custom_meta_boxes.php:334
+msgid "Completion Certificate"
+msgstr "گواهی پایان دوره"
+
+#: custom_meta_boxes.php:335
+msgid ""
+"Enable Certificate image which Students receive upon course completion (out "
+"of 100)"
+msgstr ""
+"فعال کردن تصویر گواهی نامه پایان دوره که دانشجویان بعد از اتمام دوره دریافت "
+"می کنند (از 100)"
+
+#: custom_meta_boxes.php:349
+msgid "Select a Certificate Template"
+msgstr "انتخاب یک قالب گواهی پایان دوره"
+
+#: custom_meta_boxes.php:356
+msgid "Passing Percentage"
+msgstr "درصد قبولی"
+
+#: custom_meta_boxes.php:357
+msgid "Course passing percentage, for completion certificate"
+msgstr "درصد قبولی در دوره، برای دریافت گواهی نامه پایان دوره"
+
+#: custom_meta_boxes.php:362
+msgid "Drip Feed"
+msgstr "قطره چکان"
+
+#: custom_meta_boxes.php:363
+msgid "Enable Drip Feed course"
+msgstr "فعال سازی دوره قطره چکانی"
+
+#: custom_meta_boxes.php:375
+msgid "Course Starting Time as Drip Feed Origin"
+msgstr ""
+
+#: custom_meta_boxes.php:376
+#, php-format
+msgid ""
+"Drip feed time calculation from Course starting date/time vs previous unit "
+"access date/time (default), %s tutorial %s"
+msgstr ""
+
+#: custom_meta_boxes.php:388
+msgid "Section Drip Feed"
+msgstr "قطره چکان بخش"
+
+#: custom_meta_boxes.php:389
+msgid "Enable Section Drip Feed (default ) course"
+msgstr "فعال سازی دوره (پیش فرض) قطره چکانی"
+
+#: custom_meta_boxes.php:401
+msgid "Drip Duration as Unit Duration"
+msgstr "مدت زمان قطره چکان بعنوان مدت زمان جلسه"
+
+#: custom_meta_boxes.php:402
+msgid ""
+"Assume Drip duration same as Unit Duration. Duration between consecutive "
+"units."
+msgstr "فرض زمان قطره چکان با زمان جلسه. مدت زمان بین دو جلسه متوالی"
+
+#: custom_meta_boxes.php:414
+msgid "Drip Feed Duration (Static)"
+msgstr "مدت زمان قطره چکان (ایستا)"
+
+#: custom_meta_boxes.php:415
+msgid ""
+"Static duration, if Drip duration not equals Unit duration. This is the "
+"duration between consecutive Drip feed units (in "
+msgstr ""
+"مدت زمان ایستا، اگر مدت زمان قطره چکان با مدت زمان جلسه برابر نبود. این زمان "
+"مدت زمان قطره چکانی بین جلسات است."
+
+#: custom_meta_boxes.php:420
+msgid "Drip Duration parameter"
+msgstr ""
+
+#: custom_meta_boxes.php:427
+msgid "Course Curriculum"
+msgstr "برنامه درسی دوره"
+
+#: custom_meta_boxes.php:428
+msgid ""
+"Set Course Curriculum, prepare units and quizzes before setting up curriculum"
+msgstr ""
+"تنظیم برنامه درسی دوره، جلسه ها و آزمون ها را قبل از دوره درسی آماده کنید."
+
+#: custom_meta_boxes.php:435
+msgid "Prerequisite Course"
+msgstr ""
+
+#: custom_meta_boxes.php:436
+msgid "Prerequisite courses for this course"
+msgstr ""
+
+#: custom_meta_boxes.php:442
+msgid "Course Retakes"
+msgstr "تعداد شروع مجدد دوره"
+
+#: custom_meta_boxes.php:443
+msgid "Set number of times a student can re-take the course (0 to disable)"
+msgstr ""
+"تعداد دفعاتی که یک دانشجو می تواند دوره را مجددا شروع کند (0 برای غیرفعال "
+"کردن)"
+
+#: custom_meta_boxes.php:449
+msgid "Course Forum"
+msgstr "انجمن دوره"
+
+#: custom_meta_boxes.php:450
+msgid "Connect Forum with Course."
+msgstr "اتصال انجمن به دوره."
+
+#: custom_meta_boxes.php:457
+msgid "Course Group"
+msgstr "گروه دوره"
+
+#: custom_meta_boxes.php:458
+msgid "Connect a Group with Course."
+msgstr "اتصال یک گروه به دوره."
+
+#: custom_meta_boxes.php:463
+msgid "Course specific instructions"
+msgstr "دستورالعمل های خاص دوره"
+
+#: custom_meta_boxes.php:464
+msgid ""
+"Course specific instructions which would be shown in the Start course/Course "
+"status page"
+msgstr ""
+"دستورالعمل های خاص دوره که در صفحه شروع دوره یا صفحه وضعیت دوره نمایش داده "
+"خواهد شد."
+
+#: custom_meta_boxes.php:470
+msgid "Course Completion Message"
+msgstr "پیغام اتمام دوره"
+
+#: custom_meta_boxes.php:471
+msgid "This message is shown to users when they Finish submit the course"
+msgstr "این پیغام بعد از اتمام و ارسال دوره به کاربر نشان داده می شود."
+
+#: custom_meta_boxes.php:474
+msgid "This message is shown to the user when she finishes the course."
+msgstr "این پیغام بعد از اتمام دوره به کاربر نشان داده می شود."
+
+#: custom_meta_boxes.php:482
+msgid "Free Course"
+msgstr "دوره رایگان"
+
+#: custom_meta_boxes.php:483
+msgid "Set Course free for all Members"
+msgstr "انتخاب دوره رایگان برای همه اعضا"
+
+#: custom_meta_boxes.php:495
+msgid "Apply for Course"
+msgstr "اعمال برای دوره"
+
+#: custom_meta_boxes.php:496
+msgid "Invite Student applications for Course"
+msgstr "دعوت دانشجویان برنامه برای دوره"
+
+#: custom_meta_boxes.php:497
+msgid ""
+"Students are required to Apply for course and instructor would manually "
+"approve them to course. Do not enable \"Free\" course with this setting."
+msgstr ""
+"دانشجویان میبایست برای دوره فعال شوند و استاد میبایست به صورت دستی آنها را "
+"برای دوره فعال کند. گزینه دوره\"رایگان\" را در این تنظیمات فعال نکنید."
+
+#: custom_meta_boxes.php:517
+msgid "PMPro Membership"
+msgstr "عضویت PMPro"
+
+#: custom_meta_boxes.php:518
+msgid "Required Membership level for this course"
+msgstr "سطح مورد نیاز اعضا برای این دوره"
+
+#: custom_meta_boxes.php:532
+msgid "Associated Product"
+msgstr "محصول مرتبط"
+
+#: custom_meta_boxes.php:533
+msgid "Associated Product with the Course."
+msgstr "محصول مرتبط با دوره."
+
+#: custom_meta_boxes.php:544
+msgid "Video"
+msgstr "ویدئو"
+
+#: custom_meta_boxes.php:545
+msgid "Audio"
+msgstr "صوت"
+
+#: custom_meta_boxes.php:546
+msgid "Podcast"
+msgstr "پادکست"
+
+#: custom_meta_boxes.php:547 includes/musettings.php:96
+msgid "General"
+msgstr "عمومی"
+
+#: custom_meta_boxes.php:551
+msgid "Unit Description"
+msgstr "توضیحات جلسه"
+
+#: custom_meta_boxes.php:552
+msgid "Small Description."
+msgstr "توضیح کوتاه."
+
+#: custom_meta_boxes.php:558
+msgid "Unit Type"
+msgstr "نوع جلسه"
+
+#: custom_meta_boxes.php:559
+msgid "Select Unit type from Video , Audio , Podcast, General , "
+msgstr "انتخاب نوع جلسه از انواع (ویدئو، صوت، پادکست، عمومی، "
+
+#: custom_meta_boxes.php:566
+msgid "Free Unit"
+msgstr "جلسه رایگان"
+
+#: custom_meta_boxes.php:567
+msgid "Set Free unit, viewable to all"
+msgstr "جلسه را رایگان کنید تا قابل مشاهده برای همه باشد"
+
+#: custom_meta_boxes.php:579
+msgid "Unit Duration"
+msgstr "مدت زمان جلسه"
+
+#: custom_meta_boxes.php:580
+msgid "Duration in "
+msgstr "مدت زمان به "
+
+#: custom_meta_boxes.php:585 custom_meta_boxes.php:586
+msgid "Unit Duration parameter"
+msgstr "پارامتر مدت زمان جلسه"
+
+#: custom_meta_boxes.php:592
+msgid "Unit Forum"
+msgstr "انجمن جلسه"
+
+#: custom_meta_boxes.php:593
+msgid "Connect Forum with Unit."
+msgstr "اتصال انجمن با جلسه."
+
+#: custom_meta_boxes.php:600
+msgid "Connect Assignments"
+msgstr "اتصال تکالیف"
+
+#: custom_meta_boxes.php:601
+msgid "Select an Assignment which you can connect with this Unit"
+msgstr "تکلیفی را که می خواهید به این جلسه متصل کنید را انتخاب نمائید"
+
+#: custom_meta_boxes.php:611
+msgid "True or False"
+msgstr "درست یا نادرست"
+
+#: custom_meta_boxes.php:612
+msgid "Multiple Choice"
+msgstr "چند انتخابی"
+
+#: custom_meta_boxes.php:613
+msgid "Multiple Correct"
+msgstr "چند جواب صحیح"
+
+#: custom_meta_boxes.php:614
+msgid "Sort Answers"
+msgstr "مرتب سازی پاسخ ها"
+
+#: custom_meta_boxes.php:615
+msgid "Match Answers"
+msgstr "تطبیق پاسخ ها"
+
+#: custom_meta_boxes.php:616
+msgid "Fill in the Blank"
+msgstr "جای خالی را پر کنید"
+
+#: custom_meta_boxes.php:617
+msgid "Dropdown Select"
+msgstr "انتخاب از منوی کشوئی"
+
+#: custom_meta_boxes.php:618
+msgid "Small Text"
+msgstr "متن کوتاه"
+
+#: custom_meta_boxes.php:619
+msgid "Large Text"
+msgstr "متن بلند"
+
+#: custom_meta_boxes.php:620
+msgid "Survey type"
+msgstr ""
+
+#: custom_meta_boxes.php:624
+msgid "Question Type"
+msgstr "نوع سوال"
+
+#: custom_meta_boxes.php:625
+msgid "Select Question type, "
+msgstr "انتخاب نوع سوال، "
+
+#: custom_meta_boxes.php:632
+msgid "Question Options (For Single/Multiple/Sort/Match Question types)"
+msgstr "تنظیمات سوال  (برای انواع سوال تطبیقی/ترتیبی/چند تائی/تکی)"
+
+#: custom_meta_boxes.php:633
+msgid "Single/Mutiple Choice question options"
+msgstr "تنظیمات سوال انتخاب چندتائی/تکی"
+
+#: custom_meta_boxes.php:638
+msgid "Correct Answer"
+msgstr "پاسخ صحیح"
+
+#: custom_meta_boxes.php:639
+msgid ""
+"Enter (1 = True, 0 = false ) or Choice Number (1,2..) or comma saperated "
+"Choice numbers (1,2..) or Correct Answer for small text (All possible "
+"answers comma saperated) | 0 for No Answer or Manual Check"
+msgstr ""
+"(1 = صحیح، 2  = غلط) را وارد کرده یا یک عدد را انتخاب کنید (1،2...) یا لیست "
+"از اعداد بصورت جدا شده با کاما وارد نمایید یا برای حالت متن کوتاه، جواب صحیح "
+"را وارد کنید (میتوانید چند جواب صحیح ممکن را بصورت جدا شده با کاما وارد "
+"نمائید) | برای تصحیح دستی عدد 0 را وارد کنید."
+
+#: custom_meta_boxes.php:645
+msgid "Answer Hint"
+msgstr "سرنخ پاسخ"
+
+#: custom_meta_boxes.php:646
+msgid "Add a Hint/clue for the answer to show to student"
+msgstr "افزودن یک سرنخ برای پاسخ، جهت نمایش به دانشجو"
+
+#: custom_meta_boxes.php:652
+msgid "Answer Explanation"
+msgstr "توضیحات پاسخ"
+
+#: custom_meta_boxes.php:653
+msgid "Add Answer explanation"
+msgstr "افزودن توضیحات پاسخ"
+
+#: custom_meta_boxes.php:663
+msgid "Quiz Subtitle"
+msgstr "زیرعنوان دوره"
+
+#: custom_meta_boxes.php:664
+msgid "Quiz Subtitle."
+msgstr "زیرعنوان دوره."
+
+#: custom_meta_boxes.php:670 custom_meta_boxes.php:1237
+msgid "Connected Course"
+msgstr "دوره متصل شده"
+
+#: custom_meta_boxes.php:675
+msgid ""
+"Connecting a quiz with a course would force the quiz to be available to "
+"users who have taken the course."
+msgstr ""
+"ارتباط یک آزمون و دوره باعث میشود آزمون برای کاربرانی که دوره را گرفته اند "
+"در دسترس باشد"
+
+#: custom_meta_boxes.php:678
+msgid "Quiz Duration"
+msgstr "مدت زمان آزمون"
+
+#: custom_meta_boxes.php:679
+msgid "Quiz duration in "
+msgstr "مدت زمان آزمون به "
+
+#: custom_meta_boxes.php:679
+msgid " Enables Timer & auto submits on expire. 9999 to disable."
+msgstr ""
+" زمان سنج و ارسال خودکار هنگام اتمام زمان را فعال می کند. برای غیر فعال کردن "
+"0 را وارد کنید."
+
+#: custom_meta_boxes.php:685
+msgid "Quiz Duration parameter"
+msgstr "پارامتر مدت زمان آزمون"
+
+#: custom_meta_boxes.php:692
+msgid "Auto Evaluate Results"
+msgstr "نتیجه ارزیابی اتوماتیک"
+
+#: custom_meta_boxes.php:693
+msgid ""
+"Evaluate results as soon as quiz is complete. (* No Large text questions ), "
+"Diable for manual evaluate"
+msgstr ""
+"ارزیابی نتایج به محض اتمام آزمون. (*برای سوالات غیر تشریحی)، غیرفعال کردن "
+"برای ارزیابی دستی"
+
+#: custom_meta_boxes.php:705
+msgid "Number of Extra Quiz Retakes"
+msgstr "تعداد شروع مجدد آزمون"
+
+#: custom_meta_boxes.php:706
+msgid ""
+"Student can reset and start the quiz all over again. Number of Extra retakes "
+"a student can take."
+msgstr "تعداد دفعاتی که دانشجو قادر به بازنشانی و شروع مجدد آزمون است."
+
+#: custom_meta_boxes.php:712
+msgid "Post Quiz Message"
+msgstr "ارسال پیغام آزمون"
+
+#: custom_meta_boxes.php:713
+msgid "This message is shown to users when they submit the quiz"
+msgstr "این پیغام بعد از اتمام و ارسال آزمون به کاربران نمایش داده می شود."
+
+#: custom_meta_boxes.php:719
+msgid "Add Check Answer Switch"
+msgstr ""
+
+#: custom_meta_boxes.php:720
+msgid "Instantly check answer answer when question is marked"
+msgstr ""
+
+#: custom_meta_boxes.php:732
+msgid "Dynamic Quiz"
+msgstr "آزمون پویا"
+
+#: custom_meta_boxes.php:733
+msgid "Dynamic quiz automatically selects questions."
+msgstr "در آزمون پویا سوالات به صورت اتوماتیک انتخاب می شوند."
+
+#: custom_meta_boxes.php:745
+msgid "Dynamic Quiz Question tags"
+msgstr "برچسب های سوال آزمون پویا"
+
+#: custom_meta_boxes.php:746
+msgid ""
+"Select Question tags from where questions will be selected for the quiz."
+"(required if dynamic enabled)"
+msgstr ""
+"انتخاب برچسب سوال از جایی که سوالات برای آزمون انتخاب میگردند. (الزامی در "
+"حالت پویا)"
+
+#: custom_meta_boxes.php:767
+msgid "Randomize Quiz Questions"
+msgstr "تصادفی کردن سوالات آزمون"
+
+#: custom_meta_boxes.php:768
+msgid "Random Question sequence for every quiz"
+msgstr "تصادفی کردن ترتیب سوالات برای هر آزمون"
+
+#: custom_meta_boxes.php:780
+msgid "Quiz Questions"
+msgstr "سوالات آزمون"
+
+#: custom_meta_boxes.php:781
+msgid "Quiz questions for Static Quiz only"
+msgstr "سوالات آزمون فقط برای آزمون ایستا"
+
+#: custom_meta_boxes.php:793 includes/class.export.php:377
+msgid "Author Name"
+msgstr "نام نویسنده"
+
+#: custom_meta_boxes.php:794
+msgid "Enter the name of the testimonial author."
+msgstr "نام نویسنده توصیه نامه را وارد کنید."
+
+#: custom_meta_boxes.php:799
+msgid "Designation"
+msgstr "تعیین"
+
+#: custom_meta_boxes.php:800
+msgid "Enter the testimonial author's designation."
+msgstr "نام نویسنده ی تعیین توصیه نامه را وارد کنید."
+
+#: custom_meta_boxes.php:817
+msgid "Associated Courses"
+msgstr "دوره های مرتبط"
+
+#: custom_meta_boxes.php:818
+msgid "Associated Courses with this product. Enables access to the course."
+msgstr "دوره های مرتبط با این محصول. فعال کردن دسترسی به دوره."
+
+#: custom_meta_boxes.php:824
+msgid "Subscription "
+msgstr "انتشار"
+
+#: custom_meta_boxes.php:825
+msgid "Enable if Product is Subscription Type (Price per month)"
+msgstr "فعال سازی برای حالتیکه محصول از نوع اشتراک زمانی باشد (قیمت هر ماه)"
+
+#: custom_meta_boxes.php:837
+msgid "Subscription Duration"
+msgstr "مدت زمان انتشار"
+
+#: custom_meta_boxes.php:838
+msgid "Duration for Subscription Products (in "
+msgstr "مدت زمان اشتراک محصولات (به "
+
+#: custom_meta_boxes.php:843
+msgid "Product Duration parameter"
+msgstr "پارامتر مدت زمان محصول"
+
+#: custom_meta_boxes.php:854
+msgid "Event Sub-Title"
+msgstr "زیر عنوان رویداد"
+
+#: custom_meta_boxes.php:855
+msgid "Event Sub-Title."
+msgstr "زیر عنوان رویداد."
+
+#: custom_meta_boxes.php:862
+msgid "Select Course for which the event is valid"
+msgstr "انتخاب دوره برای رویداد معتبر"
+
+#: custom_meta_boxes.php:868
+msgid "Connect an Assignment"
+msgstr "اتصال یک تکلیف"
+
+#: custom_meta_boxes.php:869
+msgid "Select an Assignment which you can connect with this Event"
+msgstr "انتخاب یک تکلیف برای اتصال به این رویداد"
+
+#: custom_meta_boxes.php:875
+msgid "Event Icon"
+msgstr "آیکون رویداد"
+
+#: custom_meta_boxes.php:876
+msgid "Click on icon to  select an icon for the event"
+msgstr "برای انتخاب یک آیکون برای رویداد، روی آیکون کلیک کنید"
+
+#: custom_meta_boxes.php:881
+msgid "Event Color"
+msgstr "رنگ رویداد"
+
+#: custom_meta_boxes.php:882
+msgid "Select color for Event"
+msgstr "انتخاب رنگ رویداد"
+
+#: custom_meta_boxes.php:887
+msgid "Start Date"
+msgstr "تاریخ آغاز"
+
+#: custom_meta_boxes.php:888 custom_meta_boxes.php:900
+msgid "Date from which Event Begins"
+msgstr "تاریخی که در آن رویداد شروع می شود"
+
+#: custom_meta_boxes.php:893
+msgid "End Date"
+msgstr "تاریخ پایان"
+
+#: custom_meta_boxes.php:894 custom_meta_boxes.php:906
+msgid "Date on which Event ends."
+msgstr "تاریخی که در آن رویداد پایان می یابد"
+
+#: custom_meta_boxes.php:899
+msgid "Start Time"
+msgstr "زمان آغاز"
+
+#: custom_meta_boxes.php:905
+msgid "End Time"
+msgstr "زمان پایان"
+
+#: custom_meta_boxes.php:911
+msgid "Show Location"
+msgstr "نمایش مکان"
+
+#: custom_meta_boxes.php:912
+msgid "Show Location and Google map with the event"
+msgstr "نمایش مکان و نقشه گوگل مرتبط با رویداد"
+
+#: custom_meta_boxes.php:925
+msgid "Location of event"
+msgstr "مکان رویداد"
+
+#: custom_meta_boxes.php:930
+msgid "Additional Information"
+msgstr "اطلاعات بیشتر"
+
+#: custom_meta_boxes.php:931
+msgid "Point wise Additional Information regarding the event"
+msgstr "اطلاعات مفید بیشتر در مورد رویداد"
+
+#: custom_meta_boxes.php:936
+msgid "More Information"
+msgstr "اطلاعات بیشتر"
+
+#: custom_meta_boxes.php:937
+msgid "Supports HTML and shortcodes"
+msgstr "از HTML و کد های کوتاه پشتیبانی می کند"
+
+#: custom_meta_boxes.php:942
+msgid "All Day"
+msgstr "تمام روز"
+
+#: custom_meta_boxes.php:943
+msgid "An all Day event"
+msgstr "یک رویداد تمام روز"
+
+#: custom_meta_boxes.php:955
+msgid "Private Event"
+msgstr "رویداد خصوصی"
+
+#: custom_meta_boxes.php:956
+msgid "Only Invited participants can see the Event"
+msgstr "تنها شرکت کنندگان دعوت شده قادر به دیدن رویداد هستند"
+
+#: custom_meta_boxes.php:973
+msgid "Associated Product for Event Access"
+msgstr "محصول مرتبط با دسترسی رویداد"
+
+#: custom_meta_boxes.php:974
+msgid "Purchase of this product grants Event access to the member."
+msgstr "با خریدن این محصول، مجوز دسترسی به رویداد به کاربر داده شود."
+
+#: custom_meta_boxes.php:985
+msgid "From"
+msgstr "از"
+
+#: custom_meta_boxes.php:986 custom_meta_boxes.php:992
+msgid "Date on which Payment was done."
+msgstr "تاریخی که در آن پرداخت انجام شده است."
+
+#: custom_meta_boxes.php:991
+msgid "To"
+msgstr "به"
+
+#: custom_meta_boxes.php:997
+msgid "Instructor and Commissions"
+msgstr "استاد و کمسیون ها"
+
+#: custom_meta_boxes.php:998
+msgid "Instructor commissions"
+msgstr "کمیسیون های استاد"
+
+#: custom_meta_boxes.php:1007
+msgid "Background Image/Pattern"
+msgstr "تصویر/الگو پس زمینه"
+
+#: custom_meta_boxes.php:1008
+msgid "Add background image"
+msgstr "افزودن تصویر پس زمینه"
+
+#: custom_meta_boxes.php:1013
+msgid "Enable Print & PDF"
+msgstr "فعال کردن چاپ و PDF"
+
+#: custom_meta_boxes.php:1014
+msgid ""
+"Displays a Print and Download as PDF Button on top right corner of "
+"certificate"
+msgstr ""
+"یک دکمه چاپ و یک دکمه دانلود PDF در گوشه (بالا-چپ) گواهی پایان دوره نمایش "
+"میدهد"
+
+#: custom_meta_boxes.php:1026
+msgid "Certificate Width"
+msgstr "عرض گواهی پایان دوره"
+
+#: custom_meta_boxes.php:1027
+msgid "Add certificate width"
+msgstr "افزودن عرض گواهی پایان دوره"
+
+#: custom_meta_boxes.php:1032
+msgid "Certificate Height"
+msgstr "ارتفاع گواهی پایان دوره"
+
+#: custom_meta_boxes.php:1033
+msgid "Add certificate height"
+msgstr "افزودن ارتفاع گواهی پایان دوره"
+
+#: custom_meta_boxes.php:1038 custom_meta_boxes.php:1199
+msgid "Custom Class"
+msgstr "Class اختصاصی"
+
+#: custom_meta_boxes.php:1039
+msgid "Add Custom Class over Certificate container."
+msgstr "افزودن Class اختصاصی روی  container گواهی پایان دوره."
+
+#: custom_meta_boxes.php:1044
+msgid "Custom CSS"
+msgstr "CSS اختصاصی"
+
+#: custom_meta_boxes.php:1045
+msgid "Add Custom CSS for Certificate."
+msgstr "افزودن CSS اختصاصی برای گواهی پایان دوره"
+
+#: custom_meta_boxes.php:1050
+msgid "NOTE:"
+msgstr "توجه:"
+
+#: custom_meta_boxes.php:1051
+msgid ""
+" USE FOLLOWING SHORTCODES TO DISPLAY RELEVANT DATA : <br />1. "
+"<strong>[certificate_student_name]</strong> : Displays Students Name<br />2. "
+"<strong>[certificate_course]</strong> : Displays Course Name<br />3. "
+"<strong>[certificate_student_marks]</strong> : Displays Students Marks in "
+"Course<br />4. <strong>[certificate_student_date]</strong>: Displays date on "
+"which Certificate was awarded to the Student<br />5. "
+"<strong>[certificate_student_email]</strong>: Displays registered email of "
+"the Student<br />6. <strong>[certificate_code]</strong>: Generates unique "
+"code for Student which can be validated from Certificate page.<br />7. "
+"<strong>[course_completion_date]</strong>: Displays course completion date "
+"from course activity."
+msgstr ""
+" برای نمایش داده های مرتبط از کدهای کوتاه زیر استفاده کنید : <br />1. "
+"<strong>[certificate_student_name]</strong> : نمایش نام دانشجو<br />2. "
+"<strong>[certificate_course]</strong> : Displays نام دوره<br />3. "
+"<strong>[certificate_student_marks]</strong> : نمایش نمرات دانشجویان در "
+"دوره<br />4. <strong>[certificate_student_date]</strong>:  نمایش تاریخ اعطای "
+"گواهی نامه پایان <br />5. <strong>[certificate_student_email]</strong>: "
+"نمایش ایمیل ثبت شده دانشجو<br />6. <strong>[certificate_code]</strong>:   "
+"تولید کد یکتا برای دانشجو که از طریق صفحه گواهی پایان دوره تائید شده است "
+"<br />7. <strong>[course_completion_date]</strong>: نمایش تاریخ اتمام دوره."
+
+#: custom_meta_boxes.php:1064
+msgid "Assignment Sub-Title"
+msgstr "زیر عنوان تکلیف"
+
+#: custom_meta_boxes.php:1065
+msgid "Assignment Sub-Title."
+msgstr "زیر عنوان تکلیف."
+
+#: custom_meta_boxes.php:1078
+msgid "Assignment Maximum Marks"
+msgstr "حداکثر نمره تکلیف"
+
+#: custom_meta_boxes.php:1079
+msgid "Set Maximum marks for the assignment"
+msgstr "تنظیم حداکثر نمره تکلیف"
+
+#: custom_meta_boxes.php:1085
+#, php-format
+msgid "Assignment Maximum Time limit %s"
+msgstr "حداکثر زمان تحویل تکلیف %s"
+
+#: custom_meta_boxes.php:1086
+msgid "Set Maximum Time limit for Assignment ( in "
+msgstr "تنظیم حداکثر زمان تحویل تکلیف (به "
+
+#: custom_meta_boxes.php:1092
+msgid "Assignment Duration parameter"
+msgstr "مدت زمان تکلیف"
+
+#: custom_meta_boxes.php:1099
+msgid "Include in Course Evaluation"
+msgstr "در ارزیابی دوره لحاظ شود"
+
+#: custom_meta_boxes.php:1100
+msgid "Include assignment marks in Course Evaluation"
+msgstr "نمرات تکالیف در ارزیابی دوره لحاظ شود"
+
+#: custom_meta_boxes.php:1112
+msgid "Include in Course"
+msgstr "در دوره لحاظ شود"
+
+#: custom_meta_boxes.php:1113
+msgid "Assignments marks will be shown/used in course evaluation"
+msgstr "نمره تکالیف در ارزیابی دوره استفاده یا نمایش داده شوند"
+
+#: custom_meta_boxes.php:1120
+msgid "Assignment Submissions"
+msgstr "ارسال تکالیف"
+
+#: custom_meta_boxes.php:1121
+msgid "Select type of assignment submissions"
+msgstr "انتخاب نوع ارسال تکالیف"
+
+#: custom_meta_boxes.php:1131
+msgid "Attachment Type"
+msgstr "نوع ضمیمه"
+
+#: custom_meta_boxes.php:1132
+msgid "Select valid attachment types "
+msgstr "انتخاب از انواع مجاز ضمیمه"
+
+#: custom_meta_boxes.php:1173
+msgid "Attachment Size (in MB)"
+msgstr "سایز ضمیمه (به MB("
+
+#: custom_meta_boxes.php:1174
+msgid "Set Maximum Attachment size for upload ( set less than "
+msgstr "تنظیم حداکثر سایز فایل ضمیمه برای آپلود ( کمتر از "
+
+#: custom_meta_boxes.php:1185
+msgid "Width (in px)"
+msgstr "عرض (به px)"
+
+#: custom_meta_boxes.php:1186
+msgid "Set Maximum width of popup"
+msgstr "تنظیم حداکثر عرض پاپ آپ"
+
+#: custom_meta_boxes.php:1192
+msgid "Height (in px)"
+msgstr "ارتفاع (به px)"
+
+#: custom_meta_boxes.php:1193
+msgid "Set Maximum height of popup "
+msgstr "تنظیم حداکثر ارتفاع پاپ آپ "
+
+#: custom_meta_boxes.php:1200
+msgid "Add custom class to popup "
+msgstr "اضافه کردن class اختصاصی به پاپ آپ"
+
+#: custom_meta_boxes.php:1206
+msgid "Add Custom CSS"
+msgstr "افزودن CSS اختصاصی"
+
+#: custom_meta_boxes.php:1207
+msgid "Custom CSS for Popup"
+msgstr "CSS اختصاصی برای پاپ آپ"
+
+#: custom_meta_boxes.php:1238
+msgid "Connect this question to a course"
+msgstr "اتصال این سوال به دوره"
+
+#: custom_meta_boxes.php:1244
+msgid "Connected Unit"
+msgstr "جلسه مرتبط"
+
+#: custom_meta_boxes.php:1245
+msgid "Connect this question to a Unit"
+msgstr "اتصال این سوال به یک جلسه"
+
+#: custom_meta_boxes.php:1253
+msgid "Post Settings"
+msgstr "تنظیمات نوشته"
+
+#: custom_meta_boxes.php:1254
+msgid "Page Settings"
+msgstr "تنظیمات برگه"
+
+#: custom_meta_boxes.php:1256
+msgid "Course Settings"
+msgstr "تنظیمات دوره"
+
+#: custom_meta_boxes.php:1258
+msgid "Course Product"
+msgstr "محصول دوره"
+
+#: custom_meta_boxes.php:1260
+msgid "Course Membership"
+msgstr "عضویت دوره"
+
+#: custom_meta_boxes.php:1263
+msgid "Unit Settings"
+msgstr "تنظیمات جلسه"
+
+#: custom_meta_boxes.php:1265
+msgid "Question Settings"
+msgstr "تنظیمات سوال"
+
+#: custom_meta_boxes.php:1266
+msgid "Quiz Settings"
+msgstr "تنظیمات آزمون"
+
+#: custom_meta_boxes.php:1271
+msgid "Testimonial Author Information"
+msgstr "اطلاعات نویسنده توصیه نامه"
+
+#: custom_meta_boxes.php:1272
+msgid "Payments Settings"
+msgstr "تنظیمات پرداخت ها"
+
+#: custom_meta_boxes.php:1273
+msgid "Certificate Template Settings"
+msgstr "تنظیمات قالب گواهی پایان دوره"
+
+#: custom_meta_boxes.php:1274
+msgid "Popup Settings"
+msgstr "تنظیمات پاپ آپ"
+
+#: custom_meta_boxes.php:1280
+msgid "Product Course Settings"
+msgstr "تنظیمات دوره محصول"
+
+#: custom_meta_boxes.php:1285
+msgid "WPLMS Events Settings"
+msgstr "تنظیمات رویداد های WPLMS"
+
+#: custom_meta_boxes.php:1290
+msgid "WPLMS Assignments Settings"
+msgstr "تنظیمات تکالیف WPLMS"
+
+#: custom_meta_boxes.php:1300
+msgid "Page Builder"
+msgstr "صفحه ساز"
+
+#: includes/class.export.php:11 includes/statistics.php:750
+msgid "Select Module"
+msgstr "انتخاب ماژول"
+
+#: includes/class.export.php:21
+msgid "Select a WPLMS Module Type"
+msgstr "انتخاب یک نوع ماژول WPLMS"
+
+#: includes/class.export.php:24
+msgid "Set Taxonomy"
+msgstr "تنظیم تاکسونومی"
+
+#: includes/class.export.php:26 includes/class.export.php:33
+#: includes/class.export.php:40 metaboxes/library/vibe-editor.php:662
+msgid "All"
+msgstr "همه"
+
+#: includes/class.export.php:28 includes/class.export.php:35
+msgid "Optional"
+msgstr "اختیاری"
+
+#: includes/class.export.php:31
+msgid "Set Taxonomy Term"
+msgstr "تنظیم عبارت تاکسونومی"
+
+#: includes/class.export.php:38
+msgid "Specific Module/s Ids"
+msgstr "شناسه ماژوال های خاص"
+
+#: includes/class.export.php:42
+msgid "Optional, Enter comma saperated modules for more than one module"
+msgstr ""
+"اختیاری، برای بیش از یک ماژول، ماژول ها را بصورت جدا شده با کاما وارد کنید"
+
+#: includes/class.export.php:45
+msgid "Export content"
+msgstr "برون ریزی محتوا"
+
+#: includes/class.export.php:48
+msgid "Export content of the module"
+msgstr "برون ریزی محتوای ماژول"
+
+#: includes/class.export.php:51
+msgid "Export Settings"
+msgstr "برون ریزی تنظیمات"
+
+#: includes/class.export.php:54
+msgid "Export module settings"
+msgstr "برون ریزی تنظیمات ماژول"
+
+#: includes/class.export.php:57
+msgid "Export Taxonomies"
+msgstr "برون ریزی تاکسونومی ها"
+
+#: includes/class.export.php:60
+msgid "Optional taxonomies and relationships"
+msgstr "روابط و تاکسونومی های اختیاری"
+
+#: includes/class.export.php:63
+msgid "Export Comments"
+msgstr "برون ریزی دیدگاه ها"
+
+#: includes/class.export.php:66
+msgid "Exports reviews for courses, Answers for Questions and Assignments"
+msgstr "برون ریزی نقد و بررسی برای دوره ها، پاسخ به سوالات و تکالیف"
+
+#: includes/class.export.php:69
+msgid "Export connected modules"
+msgstr "برون ریزی ماژول های مرتبط"
+
+#: includes/class.export.php:72
+msgid ""
+"Export connected modules, like units,quizzes,assignments with courses, "
+"questions with quizzes etc."
+msgstr ""
+"برون ریزی ماژول های مرتبط، مانند جلسات، آزمون ها، تکالیف با دوره ها، سوالات "
+"با آزمون ها و غیره."
+
+#: includes/class.export.php:75
+msgid "Export Users"
+msgstr "برون ریزی کاربران"
+
+#: includes/class.export.php:78
+msgid "Export user profiles"
+msgstr "برون ریزی پروفایل کاربران"
+
+#: includes/class.export.php:81
+msgid "Export Connected User data"
+msgstr "برون ریزی داده های کاربر مرتبط"
+
+#: includes/class.export.php:84
+msgid "Export user statuses for module/sub-modules"
+msgstr "برون ریزی وضعیت کاربران برای ماژول ها/زیر ماژول ها"
+
+#: includes/class.export.php:87
+msgid "Start Point"
+msgstr "نقطه شروع"
+
+#: includes/class.export.php:91
+msgid "Starting Key count for module, recommended for larger exports"
+msgstr "Starting Key count برای ماژول، توصیه شده برای برون ریزی های حجیم"
+
+#: includes/class.export.php:94
+msgid "Number of Modules"
+msgstr "تعداد ماژول ها"
+
+#: includes/class.export.php:98
+msgid "Maximum number of modules to import"
+msgstr "حداکثر تعداد ماژول برای درون ریزی"
+
+#: includes/class.export.php:137
+msgid "Generate Export File"
+msgstr "ایجاد فایل برون ریزی"
+
+#: includes/class.export.php:139
+msgid "Download Export File"
+msgstr "دانلود فایل برون ریزی شده"
+
+#: includes/class.export.php:188 includes/class.export.php:226
+#: includes/class.export.php:372
+msgid "Type"
+msgstr "نوع"
+
+#: includes/class.export.php:189 includes/class.export.php:227
+#: includes/tips.php:2013
+msgid "Title"
+msgstr "عنوان"
+
+#: includes/class.export.php:190 includes/class.export.php:228
+#: includes/class.export.php:374
+msgid "Date"
+msgstr "تاریخ"
+
+#: includes/class.export.php:191 includes/class.export.php:229
+#: includes/class.export.php:373 metaboxes/library/vibe-editor.php:1861
+#: metaboxes/library/vibe-editor.php:1864
+#: metaboxes/library/vibe-editor.php:1905
+#: metaboxes/library/vibe-editor.php:2007
+msgid "Content"
+msgstr "محتوا"
+
+#: includes/class.export.php:192 includes/class.export.php:230
+#: includes/class.export.php:376
+msgid "Author ID"
+msgstr "شناسه نویسنده"
+
+#: includes/class.export.php:193 includes/class.export.php:231
+msgid "Excerpt"
+msgstr "چکیده"
+
+#: includes/class.export.php:194 includes/class.export.php:232
+msgid "Status"
+msgstr "وضعیت"
+
+#: includes/class.export.php:195 includes/class.export.php:233
+msgid "Slug"
+msgstr "نامک"
+
+#: includes/class.export.php:196 includes/class.export.php:234
+msgid "Review/Note/Answer Count"
+msgstr "تعداد نقد و بررسی/یادداشت/پاسخ"
+
+#: includes/class.export.php:265
+msgid "Terms"
+msgstr "عبارات"
+
+#: includes/class.export.php:278
+msgid "User Details"
+msgstr "اطلاعات کاربر"
+
+#: includes/class.export.php:371
+msgid "Connected Post"
+msgstr "نوشته مرتبط"
+
+#: includes/class.export.php:375
+msgid "Parent ID"
+msgstr "شناسه والد"
+
+#: includes/class.export.php:378
+msgid "Author Email"
+msgstr "ایمیل نویسنده"
+
+#: includes/class.export.php:481
+msgid "User Timestamp"
+msgstr "برچسب زمانی کاربر"
+
+#: includes/class.export.php:484
+msgid "User status"
+msgstr "وضعیت کاربر"
+
+#: includes/class.import.php:8
+msgid "IMPORT SETTINGS"
+msgstr "درون ریزی تنظیمات"
+
+#: includes/class.import.php:10
+#, php-format
+msgid "Select File to upload [ Maximum upload size %s MB(s) ]"
+msgstr "انتخاب فایل برای آپلود [حداکثر سایز آپلود %s MB(s) ]"
+
+#: includes/class.import.php:12
+msgid "Upload File"
+msgstr "آپلود فایل"
+
+#: includes/class.import.php:27
+msgid "Invalid parameters."
+msgstr "پارامترهای نامعتبر."
+
+#: includes/class.import.php:35
+msgid "No file sent."
+msgstr "هیچ فایلی ارسال نشد."
+
+#: includes/class.import.php:38 includes/class.import.php:45
+msgid "Exceeded filesize limit."
+msgstr "از محدودیت سایز فایل تجاوز کرده است."
+
+#: includes/class.import.php:40
+msgid "Unknown errors."
+msgstr "خطاهای ناشناخته."
+
+#: includes/class.import.php:58
+msgid "Invalid file format."
+msgstr "فرمت فایل نامعتبر."
+
+#: includes/class.import.php:62
+msgid "Import Complete"
+msgstr "درون ریزی کامل شد"
+
+#: includes/class.import.php:64
+msgid "Import Failed"
+msgstr "درون ریزی با شكست مواجه شد"
+
+#: includes/class.import.php:239
+msgid "Unable to Create user"
+msgstr "قادر به ایجاد کاربر نمی باشد"
+
+#: includes/course_settings.php:124
+msgid "Course Details"
+msgstr ""
+
+#: includes/course_settings.php:128
+msgid "Manage Course details"
+msgstr ""
+
+#: includes/course_settings.php:247 includes/musettings.php:1310
+#: includes/profile_menu_dropdown_settings.php:355
+msgid "Save Settings"
+msgstr "ذخیره تنظیمات"
+
+#: includes/errorhandle.php:19
+msgid "Unknown error."
+msgstr "خطای ناشناخته."
+
+#: includes/errorhandle.php:26
+msgid "Please save the changes again."
+msgstr "لطفا تغییرات را دوباره ذخیره کنید."
+
+#: includes/errorhandle.php:27
+msgid "Some Uknown issue appeared, please contact us."
+msgstr "یک مشکل ناشناخته بوجود آمده، لطفا با ما تماس بگیرید."
+
+#: includes/errorhandle.php:28
+msgid "Please save the Page Builder changes !"
+msgstr "لطفا تغییرات صفحه ساز را ذخیره کنید !"
+
+#: includes/errorhandle.php:29
+msgid "Requested Slider was not found, Please check slider post id !"
+msgstr "اسلایدر درخواست شده پیدا نشد، لطفا post id اسلایدر را چک کنید !"
+
+#: includes/errorhandle.php:30
+msgid "No Posts Id's found in given Custom Post Type."
+msgstr "هیچ Posts Id ای در Custom Post Type داده شده وجود ندارد."
+
+#: includes/errorhandle.php:31
+msgid "Author Information missing."
+msgstr "اطلاعات نویسنده گم شده."
+
+#: includes/errorhandle.php:32
+msgid "You do not have permission to do that."
+msgstr "شما مجوز لازم برای انجام آن کار را ندارید."
+
+#: includes/errorhandle.php:33
+msgid "Unable to get tweets from Twitter !"
+msgstr "قادر به دریافت tweet ها از Twitter نمی باشد !"
+
+#: includes/errorhandle.php:34
+msgid "No public tweets found on Twitter !"
+msgstr "هیچ tweet عمومی ای در Twitter پیدا نشد !"
+
+#: includes/errorhandle.php:35
+msgid "Term : Taxonomy Mismatch: Selected Term does not exist in Taxonomy !"
+msgstr ""
+"عبارت : عدم تطبیق تاکسونومی: عبارت انتخاب شده در تاکسونومی وجود ندارد !"
+
+#: includes/errorhandle.php:36
+msgid ""
+"Post Type : Taxonomy Mismatch: Selected Taxonomy does not exist in Post "
+"Type !"
+msgstr ""
+"Post Type: عدم تطابق تاکسونومی: تاکسونومی انتخاب شده در Post Type وجود "
+"ندارد !"
+
+#: includes/errorhandle.php:37
+msgid "Featured Component does not Exist !"
+msgstr "Featured Component وجود ندارد !"
+
+#: includes/errorhandle.php:38
+msgid "Incorrect or Incompatible Audio Format !"
+msgstr "فرمت صوتی نادرست یا ناسازگار"
+
+#: includes/errorhandle.php:39
+msgid "Incorrect or Incompatible Video Embed Code !"
+msgstr "Embed Code ویدئویی نادرست یا ناسازگار"
+
+#: includes/errorhandle.php:40
+msgid "Modal ID Incorrect, please recheck !"
+msgstr "Modal ID نادرست، لطفا دوباره چک کنید !"
+
+#: includes/errorhandle.php:41
+msgid "Testimonial ID Incorrect, please recheck !"
+msgstr "شناسه توصیه نامه نادرست ، لطفا دوباره چک کنید !"
+
+#: includes/errorhandle.php:42
+msgid "Post ID Incorrect, please recheck !"
+msgstr "Post ID نادرست، لطفا دوباره چک کنید !"
+
+#: includes/errorhandle.php:55 metaboxes/meta_box.php:290
+msgid "Seconds"
+msgstr "ثانیه"
+
+#: includes/errorhandle.php:56 metaboxes/meta_box.php:291
+msgid "Minutes"
+msgstr "دقیقه"
+
+#: includes/errorhandle.php:57 metaboxes/meta_box.php:292
+msgid "Hours"
+msgstr "ساعت"
+
+#: includes/errorhandle.php:58 metaboxes/meta_box.php:293
+msgid "Days"
+msgstr "روز"
+
+#: includes/errorhandle.php:59 metaboxes/meta_box.php:294
+msgid "Weeks"
+msgstr "هفته"
+
+#: includes/errorhandle.php:60 metaboxes/meta_box.php:295
+msgid "Months"
+msgstr "دقیقه"
+
+#: includes/errorhandle.php:61 metaboxes/meta_box.php:296
+msgid "Years"
+msgstr "سال"
+
+#: includes/featured.php:8
+msgid "Read more"
+msgstr "بیشتر بخوانید"
+
+#: includes/featured.php:125
+msgid "REVIEWS"
+msgstr "نقد و بررسی"
+
+#: includes/featured.php:167
+#, php-format
+msgid "Course Author %s"
+msgstr ""
+
+#: includes/featured.php:207
+msgid "Course Author"
+msgstr ""
+
+#: includes/featured.php:319 includes/featured.php:535
+msgid " Comments"
+msgstr " دیدگاه"
+
+#: includes/featured.php:421
+msgid "Event "
+msgstr "رویداد "
+
+#: includes/featured.php:426
+msgid "Start Date "
+msgstr "تاریخ آغاز "
+
+#: includes/featured.php:429
+msgid "End Date "
+msgstr "تاریخ پایان "
+
+#: includes/featured.php:433
+msgid "Start Time "
+msgstr "زمان شروع "
+
+#: includes/featured.php:436
+msgid "End Time "
+msgstr "زمان پایان "
+
+#: includes/featured.php:439
+msgid "All Day "
+msgstr "تمام روز "
+
+#: includes/featured.php:439 includes/musettings.php:1230
+#: includes/musettings.php:1234 includes/musettings.php:1238
+#: includes/musettings.php:1247 includes/musettings.php:1251
+#: includes/musettings.php:1255 includes/musettings.php:1267
+#: includes/musettings.php:1271 includes/musettings.php:1275
+#: includes/musettings.php:1284 includes/musettings.php:1288
+#: includes/musettings.php:1292 includes/musettings.php:1987
+#: includes/musettings.php:2017 includes/musettings.php:2046
+#: metaboxes/library/vibe-editor.php:1403
+#: metaboxes/library/vibe-editor.php:2051
+msgid "Yes"
+msgstr "بلی"
+
+#: includes/featured.php:442
+msgid "Frequency "
+msgstr "تکرار"
+
+#: includes/featured.php:442
+msgid "Every "
+msgstr "هر "
+
+#: includes/featured.php:442
+msgid "for "
+msgstr "برای "
+
+#: includes/featured.php:445
+msgid "Venue "
+msgstr "مکان "
+
+#: includes/featured.php:448
+msgid "View full details"
+msgstr "مشاهده اطلاعات کامل"
+
+#: includes/musettings.php:97
+msgid "Commissions"
+msgstr "کمیسیونها"
+
+#: includes/musettings.php:98
+msgid "Functions"
+msgstr ""
+
+#: includes/musettings.php:99
+msgid "Import/Export"
+msgstr "درون ریزی/برون ریزی"
+
+#: includes/musettings.php:100
+msgid "Touch Points"
+msgstr "نقاط تماس"
+
+#: includes/musettings.php:101
+msgid "Emails"
+msgstr "ایمیل ها"
+
+#: includes/musettings.php:102
+msgid "AddOns"
+msgstr "افزونه ها"
+
+#: includes/musettings.php:200
+msgid "Settings Saved"
+msgstr "تنظیمات ذخیره شد"
+
+#: includes/musettings.php:202
+msgid "Unable to Save settings"
+msgstr "قادر به ذخیره تنظیمات نمی باشد."
+
+#: includes/musettings.php:208
+msgid "LMS General Settings"
+msgstr "تنظیمات عمومی سامانه آموزشی"
+
+#: includes/musettings.php:209 includes/musettings.php:1011
+msgid "Import LMS functions can be managed from here."
+msgstr ""
+
+#: includes/musettings.php:212
+msgid "General Settings"
+msgstr ""
+
+#: includes/musettings.php:213 includes/musettings.php:723
+msgid "Registration Forms"
+msgstr ""
+
+#: includes/musettings.php:234
+msgid "User Login & Registration Settings"
+msgstr ""
+
+#: includes/musettings.php:238
+msgid "Student Login redirect"
+msgstr "هدایت دانشجو بعد از ورود (لاگین)"
+
+#: includes/musettings.php:243 includes/musettings.php:257
+#: includes/tips.php:963
+msgid "Disable"
+msgstr "غیرفعال کردن"
+
+#: includes/musettings.php:244 includes/musettings.php:258
+msgid "Home page"
+msgstr "صفحه خانه"
+
+#: includes/musettings.php:245 includes/musettings.php:259
+msgid "Profile page"
+msgstr "صفحه پروفایل"
+
+#: includes/musettings.php:246 includes/musettings.php:260
+msgid "My Courses page"
+msgstr "صفحه دوره های من"
+
+#: includes/musettings.php:247 includes/musettings.php:262
+msgid "Dashboard page"
+msgstr "صفحه پیشخوان"
+
+#: includes/musettings.php:248 includes/musettings.php:263
+msgid "Same page"
+msgstr "همان صفحه"
+
+#: includes/musettings.php:250 includes/musettings.php:265
+msgid "Default is home page"
+msgstr "پیش فرض صفحه خانه می باشد"
+
+#: includes/musettings.php:253
+msgid "Instructor Login redirect"
+msgstr "هدایت استاد بعد از ورود (لاگین)"
+
+#: includes/musettings.php:261
+msgid "Instructing Courses page"
+msgstr "صفحه دوره های تدریس کرده"
+
+#: includes/musettings.php:268
+msgid "Enable One session per user"
+msgstr "فعال سازی یک Session برای هر کاربر"
+
+#: includes/musettings.php:271
+msgid "A User can login from one unique user id (excludes administrators)"
+msgstr "یک کاربر قادر است با یک شناسه کاربری یکتا لاگین کند (بغیر از مدیران)"
+
+#: includes/musettings.php:274
+msgid "Hide Administrators in Instructors"
+msgstr "مخفی کردن مدیران در اساتید"
+
+#: includes/musettings.php:277
+msgid "Hide Administrator in all instructors page & elsewhere"
+msgstr "مخفی کردن مدیران در همه صفحات اساتید و جاهای دیگر"
+
+#: includes/musettings.php:280
+msgid "Enable message to Instructor in Course Page"
+msgstr "فعال کردن ارسال پیغام به استاد در صفحه دوره"
+
+#: includes/musettings.php:283
+#, php-format
+msgid ""
+"Enables a Message icon to send message to Instructor, see %s tutorial %s"
+msgstr ""
+
+#: includes/musettings.php:286
+msgid "Enable Create course button in instructor profile menu"
+msgstr ""
+
+#: includes/musettings.php:288
+msgid "Adds a create course link in intructor profile menu"
+msgstr ""
+
+#: includes/musettings.php:292
+msgid "Show WooCommerce/Pmpro account in profile"
+msgstr "نمایش حساب کاربری ووکامرس/Pmpro  در پروفایل"
+
+#: includes/musettings.php:294
+msgid "Display WooCommerce account in profile"
+msgstr "نمایش حساب کاربری ووکامرس در پروفایل"
+
+#: includes/musettings.php:298
+msgid "Set a terms and conditions page for BuddyPress registration"
+msgstr "ساخت یک صفحه شرایط و ضوابط برای ثبت بادی پرس"
+
+#: includes/musettings.php:302
+msgid "Set a terms and conditions page in BuddPress registration."
+msgstr "ساخت یک صفحه شرایط و ضوابط در ثبت بادی پرس"
+
+#: includes/musettings.php:305
+msgid "Enable Student menus"
+msgstr "فعال سازی فهرست های دانشجو"
+
+#: includes/musettings.php:307
+msgid "Adds New menu locations for Students"
+msgstr "افزودن مکان های فهرست جدید برای دانشجویان"
+
+#: includes/musettings.php:311
+msgid "Enable Instructor menus"
+msgstr "فعال سازی فهرست های استاد"
+
+#: includes/musettings.php:313
+msgid "Adds New menu locations for Instructors"
+msgstr "افزودن مکان های فهرست جدید برای استاد"
+
+#: includes/musettings.php:317
+msgid "Assign Free courses to students on account activation"
+msgstr ""
+
+#: includes/musettings.php:319
+msgid ""
+"Enables auto-subscription to all the \"free\" courses in site to students "
+"when they signup/register and activate their account."
+msgstr ""
+
+#: includes/musettings.php:323
+msgid "Course Home Settings"
+msgstr ""
+
+#: includes/musettings.php:327
+msgid "Course Members Visibility"
+msgstr ""
+
+#: includes/musettings.php:332 includes/musettings.php:345
+#: includes/musettings.php:358 includes/musettings.php:371
+#: includes/musettings.php:384
+msgid "Everyone"
+msgstr ""
+
+#: includes/musettings.php:333 includes/musettings.php:346
+#: includes/musettings.php:359 includes/musettings.php:372
+#: includes/musettings.php:385
+msgid "Logged in Users"
+msgstr ""
+
+#: includes/musettings.php:334 includes/musettings.php:347
+#: includes/musettings.php:360 includes/musettings.php:373
+#: includes/musettings.php:386
+msgid "Course Users"
+msgstr ""
+
+#: includes/musettings.php:335 includes/musettings.php:348
+#: includes/musettings.php:361 includes/musettings.php:374
+#: includes/musettings.php:387
+msgid "Instructors and Admins"
+msgstr ""
+
+#: includes/musettings.php:337
+msgid "Set Course/Members Visibility"
+msgstr ""
+
+#: includes/musettings.php:340
+msgid "Course Curriculum Visibility"
+msgstr ""
+
+#: includes/musettings.php:350
+msgid "Set Course/Curriculum Visibility"
+msgstr ""
+
+#: includes/musettings.php:353
+msgid "Course Events Visibility"
+msgstr ""
+
+#: includes/musettings.php:363
+msgid "Set Course/Events Visibility"
+msgstr ""
+
+#: includes/musettings.php:366
+msgid "Course Activity Visibility"
+msgstr ""
+
+#: includes/musettings.php:376
+msgid "Set Course/Activity Visibility"
+msgstr ""
+
+#: includes/musettings.php:379
+msgid "Course Drive Visibility"
+msgstr ""
+
+#: includes/musettings.php:389
+msgid "Set Course/Drive Visibility"
+msgstr ""
+
+#: includes/musettings.php:392
+msgid "Disable Instructor display in Courses"
+msgstr ""
+
+#: includes/musettings.php:395
+msgid "Disables display of instructor in the site. Suitable for 1 instructors"
+msgstr ""
+
+#: includes/musettings.php:398
+msgid "Change Pre-Required Course Condition from submitted to Evaluated"
+msgstr ""
+
+#: includes/musettings.php:401
+msgid ""
+"After enabling this students will have to wait for course evaluation by the "
+"instructor to move on to courses which have pre-requisite course under "
+"evaluation. Default : Students get access on course finish."
+msgstr ""
+
+#: includes/musettings.php:404
+msgid "Hide Members section in Single Course page"
+msgstr "مخفی کردن بخش اعضاء در صفحه دوره"
+
+#: includes/musettings.php:407
+msgid " Hides member section in course pages"
+msgstr " بخش اعضا در صفحه دوره را مخفی می کند"
+
+#: includes/musettings.php:410
+msgid "Show curriculum below Course description"
+msgstr "نمایش برنامه درسی زیر توضیحات دوره"
+
+#: includes/musettings.php:413
+msgid "Show curriculum below course description"
+msgstr "نمایش برنامه درسی زیر شرح دوره"
+
+#: includes/musettings.php:416
+msgid "Disable Course Certificate image mode"
+msgstr ""
+
+#: includes/musettings.php:418
+#, php-format
+msgid "Disable course certificate in image mode. %s tutorial %s"
+msgstr ""
+
+#: includes/musettings.php:422
+msgid "Free units should only be accessible to logged in members"
+msgstr ""
+
+#: includes/musettings.php:425
+msgid ""
+"Disable free unit access for the world, only logged in users can view free "
+"units."
+msgstr ""
+
+#: includes/musettings.php:428
+msgid "Remove Finished Courses from directory"
+msgstr ""
+
+#: includes/musettings.php:430
+msgid "Auto remove finished courses from course directory for user"
+msgstr ""
+
+#: includes/musettings.php:434
+msgid "Fix Course Menu on Scroll"
+msgstr ""
+
+#: includes/musettings.php:437
+msgid "Fix the course menu on scroll only in c2, c3 and c5 layout"
+msgstr ""
+
+#: includes/musettings.php:440
+msgid "Course Status Settings"
+msgstr ""
+
+#: includes/musettings.php:444
+msgid "Course Timeline Accordion style"
+msgstr "استایل آکاردیونی نوار زمانی دوره"
+
+#: includes/musettings.php:447
+msgid "Show curriculum accordion style"
+msgstr "نمایش استایل آکاردیونی برنامه درسی "
+
+#: includes/musettings.php:450
+msgid "Disable ajax in Course unit load"
+msgstr "غیرفعال کردن AJAX در هنگام بارگذاری جلسه دوره"
+
+#: includes/musettings.php:453
+msgid "Ajax disabled in course unit loads"
+msgstr "AJAX در هنگام بارگذاری جلسه دوره غیرفعال شد"
+
+#: includes/musettings.php:456
+msgid "Auto-mark unit complete when user proceeds to next unit"
+msgstr ""
+
+#: includes/musettings.php:458
+msgid ""
+"Hides \"Mark Unit Complete\" button and auto marks the unit as completed "
+"when user proceeds to next unit."
+msgstr ""
+
+#: includes/musettings.php:462
+msgid "Auto trigger finish course button"
+msgstr ""
+
+#: includes/musettings.php:465
+msgid ""
+"Hides Finish course button and is automatically triggered on completion of "
+"all the units and quizzes."
+msgstr ""
+
+#: includes/musettings.php:468
+msgid "Skip Course status page"
+msgstr ""
+
+#: includes/musettings.php:470
+msgid ""
+"Skip the introductory page, course status description on course start or "
+"continue"
+msgstr ""
+
+#: includes/musettings.php:474
+msgid "Course Pricing Settings"
+msgstr ""
+
+#: includes/musettings.php:478
+msgid "Coming soon courses"
+msgstr "دوره های به زودی"
+
+#: includes/musettings.php:480
+msgid "Enable coming soon option for courses"
+msgstr "فعال کردن گزینه به زودی برای دوره ها"
+
+#: includes/musettings.php:484
+msgid "Enable Course Codes"
+msgstr "فعال کردن کد های دوره"
+
+#: includes/musettings.php:486
+msgid ""
+"Student can purchase/access courses by using custom defined codes for "
+"courses in course pricing section. Requires BuddyPress Activity."
+msgstr ""
+
+#: includes/musettings.php:490
+msgid "Enable Course external link"
+msgstr "فعال کردن لینک خارجی دوره"
+
+#: includes/musettings.php:492
+msgid ""
+"Connect \"Take this Course\" button with an external link, defined in Course "
+"Pricing section."
+msgstr ""
+"ارتباط دکمه \"این دوره را بردار\" با یک لینک خارجی، تعریف شده در بخش قیمت "
+"دوره"
+
+#: includes/musettings.php:496
+msgid "Disable Auto allocation of Free courses"
+msgstr "غیر فعال کردن تخصیص اتوماتیک دوره های رایگان"
+
+#: includes/musettings.php:498
+msgid "Disables auto allocation of free courses"
+msgstr " تخصیص خودکار دوره های رایگان را غیرفعال می کند"
+
+#: includes/musettings.php:502
+msgid "Drip Settings"
+msgstr ""
+
+#: includes/musettings.php:507
+msgid "Enable Unit Time as Drip Duration"
+msgstr "فعال سازی زمان جلسه بعنوان قطره چکان"
+
+#: includes/musettings.php:509
+msgid "Drip feed is applied based on specified Unit time."
+msgstr "اعمال حالت قطره چکانی بر اساس زمان جلسه بخصوص "
+
+#: includes/musettings.php:513
+msgid "Enable Section Drip feed"
+msgstr "فعال سازی قطره چکان بخش"
+
+#: includes/musettings.php:515
+msgid "Drip feed is applied section wise instead of unit wise."
+msgstr "اعمال حالت قطره چکانی به بخش ها به جای جلسات"
+
+#: includes/musettings.php:521
+msgid "Unit settings"
+msgstr ""
+
+#: includes/musettings.php:526
+msgid "Show Unit Description in Course curriculum"
+msgstr "نمایش توضیحات جلسه در دوره درسی"
+
+#: includes/musettings.php:529
+msgid "Unit descriptions appear below Unit titles in Course curriculum"
+msgstr "توضیحات جلسه زیر عناوین دوره درسی"
+
+#: includes/musettings.php:533
+msgid "Show User progress in Course Admin"
+msgstr "نمایش پیشرفت کاربر در بخش مدیریت دوره"
+
+#: includes/musettings.php:536
+msgid ""
+"Small progress bar is displayed for every user below her name in course -> "
+"admin section"
+msgstr ""
+"نوار پیشرفت کوچکی برای هر کاربر در بخش \"دوره -> مدیریت\"  زیر نامش نمایش "
+"داده شود."
+
+#: includes/musettings.php:539
+msgid "Enable Unit/Quiz Start Date time"
+msgstr "فعال کردن زمان و تاریخ شروع جلسه/آزمون"
+
+#: includes/musettings.php:542
+msgid "Units and Quizzes start at a particular date and time"
+msgstr "جلسات و آزمون ها در زمان و تاریخ مشخصی آغاز شوند."
+
+#: includes/musettings.php:547
+msgid "Unit Comments/Notes"
+msgstr "دیدگاه ها/نوشته های جلسه"
+
+#: includes/musettings.php:549
+msgid ""
+"Enable Unit Comments only where Unit comments are enabled in post settings."
+msgstr ""
+"فعال کردن نظرات جلسه فقط در قسمتی که نظرات جلسه در تنظیمات نوشته فعال شده است"
+
+#: includes/musettings.php:554
+msgid "Quiz/Assignment Settings"
+msgstr ""
+
+#: includes/musettings.php:558
+msgid "Enable In-Course Quiz"
+msgstr "فعال سازی آزمون درون دوره ای"
+
+#: includes/musettings.php:561
+msgid "Quizzes open inside course like units"
+msgstr "آزمون ها مانند جلسات داخل دوره باز شوند"
+
+#: includes/musettings.php:564
+msgid "In-Course Quiz questions per page"
+msgstr "سوالات آزمون درون دوره ای در هر صفحه"
+
+#: includes/musettings.php:567
+msgid "set number of questions appearing per page in in-course quizzes"
+msgstr "تنظیم تعداد سوالات در هر صفحه برای آزمون های درون دوره ای"
+
+#: includes/musettings.php:570
+msgid "Enable passing score for Quiz"
+msgstr "فعال سازی نمره قبولی در آزمون"
+
+#: includes/musettings.php:572
+msgid ""
+"Set a passing score for every quiz, Student progress to next unit/quiz is "
+"restricted if user fails in quiz"
+msgstr ""
+
+#: includes/musettings.php:576
+msgid "Force Quiz availability to Course students"
+msgstr ""
+
+#: includes/musettings.php:578
+msgid ""
+"Only Course students can take the quiz. Quiz must be connected to the course "
+"in quiz settings."
+msgstr ""
+
+#: includes/musettings.php:582
+msgid "Hide correct answers"
+msgstr "مخفی کردن پاسخ های صحیح"
+
+#: includes/musettings.php:584
+msgid ""
+"Correct answers in quizzes are not displayed unless student has finished/"
+"submitted the course."
+msgstr ""
+"پاسخ های صحیح تا زمانی که دانشجو دوره را تمام و ارسال نکرده، مخفی نگه داشته "
+"شود"
+
+#: includes/musettings.php:588
+msgid "Enable negative marking"
+msgstr "فعال سازی نمره منفی"
+
+#: includes/musettings.php:590
+msgid "Enables negative marking for questions in quizzes"
+msgstr "فعال سازی نمره منفی برای سوالات آزمون"
+
+#: includes/musettings.php:594
+msgid "Show Assignments in Course Curriculum"
+msgstr "نمایش تکالیف در برنامه درسی دوره"
+
+#: includes/musettings.php:596
+msgid "Assignments will be displayed in Course Curriculum"
+msgstr "تکالیف در برنامه درسی نمایش داده خواهند شد"
+
+#: includes/musettings.php:600
+msgid "Display Submission time in Course/Quiz/Assignment submissions"
+msgstr "نمایش زمان ارسال در دوره/آزمون/ارسالهای تکالیف"
+
+#: includes/musettings.php:603
+msgid ""
+"Displays time (eg 2 hrs) with manual submissions, * requires activity to be "
+"enabled"
+msgstr ""
+"نمایش زمان (مثال 2 ساعت) با ارسال های دستی، *نیازمند فعالیت برای فعال شدن"
+
+#: includes/musettings.php:606
+msgid "Front End Settings"
+msgstr ""
+
+#: includes/musettings.php:610
+msgid "Force Administrator Approval on every setting"
+msgstr ""
+
+#: includes/musettings.php:612
+msgid ""
+"Instructors courses will go to pending mode when settings/pricing/curriculum "
+"is saved. *Requires Admin Approval enabled in WPLMS - Course Manager"
+msgstr ""
+
+#: includes/musettings.php:616
+msgid "Enable Front end course deletion"
+msgstr "فعال سازی حذف دوره در قسمت Front end (واسط کاربری)"
+
+#: includes/musettings.php:618
+msgid ""
+"Instructors will be able to delete course and related content from front end"
+msgstr ""
+"اساتید قادر به حذف دوره و محتوای مرتبط با آن در قسمت Front end (واسط کاربری) "
+"خواهند بود"
+
+#: includes/musettings.php:623
+msgid "Miscellaneous Settings"
+msgstr ""
+
+#: includes/musettings.php:627
+msgid "Revert pretty permalinks for Courses"
+msgstr ""
+
+#: includes/musettings.php:630
+msgid "Revert permalinks from coursname/admin to coursename/?action-"
+msgstr ""
+
+#: includes/musettings.php:634
+msgid "Enable Course forum privacy"
+msgstr "فعال سازی حریم خصوصی انجمن دوره"
+
+#: includes/musettings.php:636
+msgid "Only course students can access course forums"
+msgstr "فقط دانشجویان دوره به انجمن های دوره دسترسی داشته باشند"
+
+#: includes/musettings.php:642
+msgid "Default order in course directory"
+msgstr "ترتیب پیش فرض در فهرست دوره ها"
+
+#: includes/musettings.php:646
+msgid "Recent"
+msgstr "جدیدتر"
+
+#: includes/musettings.php:647 includes/musettings.php:663
+#: metaboxes/library/vibe-editor.php:2328
+msgid "Alphabetical"
+msgstr "حروف الفبا"
+
+#: includes/musettings.php:648
+msgid "Number of Students"
+msgstr "تعداد دانشجو"
+
+#: includes/musettings.php:649
+msgid "Rating"
+msgstr "امتیاز"
+
+#: includes/musettings.php:650
+msgid "Upcoming courses via Start date"
+msgstr ""
+
+#: includes/musettings.php:651
+msgid "Random"
+msgstr ""
+
+#: includes/musettings.php:653 includes/musettings.php:665
+msgid "Default is menu order"
+msgstr "حالت پیش فرض ترتیب فهرست می باشد"
+
+#: includes/musettings.php:656
+msgid "Default order in Members directory (clear cookies to test)"
+msgstr "ترتیب پیش فرض در فهرست اعضاء (برای تست کوکی ها را پاک کنید)"
+
+#: includes/musettings.php:660
+msgid "None"
+msgstr "هیچ کدام"
+
+#: includes/musettings.php:661
+msgid "Last active"
+msgstr "آخرین باری که فعال بوده"
+
+#: includes/musettings.php:662
+msgid "Newest registered"
+msgstr "جدیدترین ثبت نام کننده ها"
+
+#: includes/musettings.php:668
+msgid "Limit Number of Courses per Instructor"
+msgstr "محدود کردن تعداد دوره ها برای هر استاد"
+
+#: includes/musettings.php:671
+msgid "( 0 for unlimited course per instructor )"
+msgstr "(0 برای تعداد دوره های نامحدود)"
+
+#: includes/musettings.php:674
+msgid "Limit Number of Units Created per Instructor"
+msgstr "محدود کردن تعداد جلسات ایجاد شده برای هر استاد"
+
+#: includes/musettings.php:677
+msgid " ( 0 for unlimited )"
+msgstr " (0 برای حالت نامحدود)"
+
+#: includes/musettings.php:680
+msgid "Limit Number of Quiz Created per Instructor "
+msgstr "محدود کردن تعداد آزمون های ایجاد شده برای هر استاد"
+
+#: includes/musettings.php:683
+msgid "(0 for unlimited course per instructor )"
+msgstr "(0 برای تعداد دوره های نامحدود)"
+
+#: includes/musettings.php:715
+msgid "You have reached your monthly post limit"
+msgstr "شما ظرفیت و محدودیت ماهانه ارسالی تان را تکمیل کرده اید"
+
+#: includes/musettings.php:724
+#, php-format
+msgid ""
+"Build registration forms for Students and Instructors, refer %s tutorial %s"
+msgstr ""
+
+#: includes/musettings.php:745
+msgid "Auto generate username from email"
+msgstr ""
+
+#: includes/musettings.php:746
+msgid "Show password meter"
+msgstr ""
+
+#: includes/musettings.php:747
+msgid "Show Field group labels"
+msgstr ""
+
+#: includes/musettings.php:748
+msgid "Google Captcha"
+msgstr ""
+
+#: includes/musettings.php:749
+msgid "Register & Login simultaneously"
+msgstr ""
+
+#: includes/musettings.php:750
+msgid "Skip Mail verification"
+msgstr ""
+
+#: includes/musettings.php:864
+msgid "field_meta for field description & visbility"
+msgstr ""
+
+#: includes/musettings.php:864
+msgid "Default"
+msgstr "پیش فرض"
+
+#: includes/musettings.php:872
+msgid "Assign User role"
+msgstr ""
+
+#: includes/musettings.php:898
+msgid "Shortcode Copied !"
+msgstr ""
+
+#: includes/musettings.php:950
+msgid "There are no fields in this group."
+msgstr ""
+
+#: includes/musettings.php:1010
+msgid "LMS Functions [ For Ad-Hoc Management]"
+msgstr ""
+
+#: includes/musettings.php:1014
+msgid "Sync Areas"
+msgstr ""
+
+#: includes/musettings.php:1015
+msgid "Ad Hoc"
+msgstr ""
+
+#: includes/musettings.php:1025
+msgid "Custom Field Value"
+msgstr "مقدار زمینه دلخواه"
+
+#: includes/musettings.php:1026
+msgid "Custom Field for Student Value"
+msgstr "زمینه دلخواه برای مقدار دانشجو"
+
+#: includes/musettings.php:1027
+msgid "Current Time Stamp "
+msgstr "برچسب زمانی جاری"
+
+#: includes/musettings.php:1032
+msgid "Synchronise LMS Data"
+msgstr ""
+
+#: includes/musettings.php:1032
+msgid "Only required in special cases when data goes out of sync."
+msgstr ""
+
+#: includes/musettings.php:1038
+msgid "Course - Students"
+msgstr ""
+
+#: includes/musettings.php:1039
+msgid "Verify Course Student Status and expiry for all students and courses"
+msgstr ""
+
+#: includes/musettings.php:1043
+msgid "Unit - Students"
+msgstr ""
+
+#: includes/musettings.php:1044
+msgid "Verify student unit completion for reusability"
+msgstr ""
+
+#: includes/musettings.php:1048
+msgid "Quiz Results"
+msgstr ""
+
+#: includes/musettings.php:1049
+msgid "Verify Quiz Student Status and results for all students and quizzes"
+msgstr ""
+
+#: includes/musettings.php:1053
+msgid "Course Forums"
+msgstr ""
+
+#: includes/musettings.php:1054
+msgid "Auto-subscribe course users to course forums."
+msgstr ""
+
+#: includes/musettings.php:1064
+msgid "Sync Now"
+msgstr ""
+
+#: includes/musettings.php:1193 includes/musettings.php:1490
+#: metaboxes/meta_box.php:815
+msgid "Select"
+msgstr "انتخاب"
+
+#: includes/musettings.php:1226
+msgid "STUDENT"
+msgstr "دانشجو"
+
+#: includes/musettings.php:1228 includes/musettings.php:1245
+#: includes/musettings.php:1265 includes/musettings.php:1282
+msgid "Message"
+msgstr "پیغام"
+
+#: includes/musettings.php:1229 includes/musettings.php:1233
+#: includes/musettings.php:1237 includes/musettings.php:1246
+#: includes/musettings.php:1250 includes/musettings.php:1254
+#: includes/musettings.php:1266 includes/musettings.php:1270
+#: includes/musettings.php:1274 includes/musettings.php:1283
+#: includes/musettings.php:1287 includes/musettings.php:1291
+#: includes/musettings.php:1986 includes/musettings.php:2016
+#: includes/musettings.php:2045 metaboxes/library/vibe-editor.php:1403
+#: metaboxes/library/vibe-editor.php:2050
+msgid "No"
+msgstr "خیر"
+
+#: includes/musettings.php:1232 includes/musettings.php:1249
+#: includes/musettings.php:1269 includes/musettings.php:1286
+msgid "Notification"
+msgstr "اعلانیه"
+
+#: includes/musettings.php:1240 includes/musettings.php:1257
+#: includes/musettings.php:1277 includes/musettings.php:1294
+#, php-format
+msgid "%s Edit Email Template %s"
+msgstr ""
+
+#: includes/musettings.php:1243 includes/musettings.php:1263
+msgid "INSTRUCTOR"
+msgstr "استاد"
+
+#: includes/musettings.php:1280
+msgid "ADMINISTRATOR"
+msgstr ""
+
+#: includes/musettings.php:1314
+msgid "Instructor Commissions"
+msgstr "کمیسیونهای استاد"
+
+#: includes/musettings.php:1315
+msgid "Configure and pay commissions to instructors."
+msgstr "پیکربندی و پرداخت کمیسیونها به اساتید"
+
+#: includes/musettings.php:1318
+msgid "Set Commissions"
+msgstr "تنظیم کمیسیون ها"
+
+#: includes/musettings.php:1319
+msgid "Pay Commissions"
+msgstr "پرداخت کمیسیون ها"
+
+#: includes/musettings.php:1352
+msgid "Field Value Changed"
+msgstr "مقدار فیلد تغییر کرد"
+
+#: includes/musettings.php:1354
+msgid "Error Field value not changed"
+msgstr "مقدار فیلد خطا تغییر نکرده است"
+
+#: includes/musettings.php:1356
+msgid "Error Field value not entered"
+msgstr "مقدار فیلد خطا وارد نشده است."
+
+#: includes/musettings.php:1369
+msgid "Student Value Changed"
+msgstr "مقدار دانشجو تغییر کرد"
+
+#: includes/musettings.php:1371
+msgid "Student value not changed"
+msgstr "مقدار دانشجو تغییر نکرده است"
+
+#: includes/musettings.php:1373
+msgid "Student value not entered"
+msgstr "مقدار دانشجو وارد نشده است"
+
+#: includes/musettings.php:1380
+msgid "Set Instructor Commisions"
+msgstr "تنظیم کمیسیون های استاد"
+
+#: includes/musettings.php:1384
+msgid "Instructor Commissions Saved"
+msgstr "کمیسیون های استاد ذخیره شد"
+
+#: includes/musettings.php:1386
+msgid "Instructor Commissions not saved, contact Site-Admin !"
+msgstr "کمیسیون استاد ذخیره نشد، با مدیر سایت تماس بگیرید !"
+
+#: includes/musettings.php:1395
+msgid "Course Name"
+msgstr "نام دوره"
+
+#: includes/musettings.php:1395 includes/statistics.php:22
+#: includes/statistics.php:753 includes/tips.php:1257
+#: metaboxes/meta_box.php:825
+msgid "Instructor"
+msgstr "استاد"
+
+#: includes/musettings.php:1395
+msgid "PERCENTAGE"
+msgstr "درصد"
+
+#: includes/musettings.php:1437
+msgid "Set Commisions"
+msgstr "تنظیم کمیسیون ها"
+
+#: includes/musettings.php:1442
+msgid "Pay Instructor Commisions"
+msgstr "پرداخت کمیسیون های استاد"
+
+#: includes/musettings.php:1452
+#, php-format
+msgid "Commission Payments on %s"
+msgstr "پرداخت های کمیسیون در %s"
+
+#: includes/musettings.php:1460
+msgid " Commission Payments Saved"
+msgstr " پرداخت های کمیسیون ذخیره شد"
+
+#: includes/musettings.php:1462
+msgid "Commission payments not saved !"
+msgstr "پرداخت های کمیسیون ذخیره نشد !"
+
+#: includes/musettings.php:1473
+msgid "CHECK NOW"
+msgstr "همین الان چک کن"
+
+#: includes/musettings.php:1480
+msgid "SET TIME PERIOD"
+msgstr "تنظیم بازه زمانی"
+
+#: includes/musettings.php:1490
+msgid "Instructor Name"
+msgstr "نام استاد"
+
+#: includes/musettings.php:1490 metaboxes/meta_box.php:825
+msgid "Commission"
+msgstr "کمیسیون"
+
+#: includes/musettings.php:1490
+msgid "PAYPAL EMAIL"
+msgstr "ایمیل پی پال"
+
+#: includes/musettings.php:1490 includes/musettings.php:1512
+msgid "Pay via PayPal"
+msgstr "پرداخت از طریق PayPal"
+
+#: includes/musettings.php:1520
+msgid "Instructor Commission"
+msgstr "کمیسیون استاد"
+
+#: includes/musettings.php:1529
+msgid "Mark as Paid"
+msgstr "پرداخت شده"
+
+#: includes/musettings.php:1549
+msgid "Import/Export WPLMS Elements"
+msgstr "درون ریزی/برون ریزی عناصر WPLMS"
+
+#: includes/musettings.php:1550
+msgid ""
+"Download and upload in CSV format. Import/Export WPLMS elements with user "
+"statuses: Courses, Quizzes, Units, Assignments, Questions and Events."
+msgstr ""
+"دانلود و آپلود به فرمت CSV . درون ریزی/برون ریزی عناصر WPLMS  با وضعیت های "
+"کاربر: دوره ها، آزمون ها، جلسات، تکالیف، سوالات و رویدادها."
+
+#: includes/musettings.php:1552
+msgid "EXPORT SETTINGS"
+msgstr "برون ریزی تنظیمات"
+
+#: includes/musettings.php:1568
+msgid "User Touch Points"
+msgstr "نقاط تماس کاربر"
+
+#: includes/musettings.php:1569
+msgid ""
+"Set touch points for Students and Instructors in WPLMS. Connect with Student "
+"or Instructor via following touch points"
+msgstr ""
+"تنظیم نقاط تماس برای دانشجویان و اساتید در WPLMS. برقراری ارتباط با دانشجو و "
+"استاد از طریق این نقاط تماس"
+
+#: includes/musettings.php:1569 includes/musettings.php:2351
+msgid "Learn more"
+msgstr "بیش‌تر بخوانید"
+
+#: includes/musettings.php:1581
+msgid "Announcements"
+msgstr ""
+
+#: includes/musettings.php:1592
+msgid "News"
+msgstr "اخبار"
+
+#: includes/musettings.php:1603
+msgid "Course Subscribed"
+msgstr "دوره گرفته شد"
+
+#: includes/musettings.php:1614
+msgid "User added to Course"
+msgstr "کاربر به دوره افزوده شد"
+
+#: includes/musettings.php:1625
+msgid "User Starts a Course "
+msgstr "کاربر یک دوره را شروع کرد"
+
+#: includes/musettings.php:1637
+msgid "Course Certificate"
+msgstr "گواهی پایان دوره"
+
+#: includes/musettings.php:1648
+msgid "Course Badge"
+msgstr "نشان دوره"
+
+#: includes/musettings.php:1660
+msgid "Course Reset by Instructor"
+msgstr "بازنشانی دوره توسط استاد"
+
+#: includes/musettings.php:1671
+msgid "Course Retake by User"
+msgstr "شروع مجدد دوره توسط دانشجو"
+
+#: includes/musettings.php:1682
+msgid "Course Submit"
+msgstr "ارسال دوره"
+
+#: includes/musettings.php:1693
+msgid "Course Evaluation"
+msgstr "ارزیابی دوره"
+
+#: includes/musettings.php:1704
+msgid "Course Reviews"
+msgstr "نقد و بررسی های دوره"
+
+#: includes/musettings.php:1715
+msgid "Unsubscribe Course"
+msgstr "ترک دوره"
+
+#: includes/musettings.php:1726
+msgid "Unit marked complete by User"
+msgstr "جلسه توسط کاربر به اتمام رسید"
+
+#: includes/musettings.php:1737
+msgid "Unit marked complete by Instructor for Student"
+msgstr "تیک اتمام جلسه توسط استاد برای دانشجو زده شد"
+
+#: includes/musettings.php:1748
+msgid "Unit marked incomplete by Instructor for Student"
+msgstr ""
+
+#: includes/musettings.php:1759
+msgid "Unit comment added by User"
+msgstr "دیدگاه برای جلسه توسط کاربر ثبت شد"
+
+#: includes/musettings.php:1770
+msgid "Quiz Start by user"
+msgstr "آزمون توسط کاربر شروع شد"
+
+#: includes/musettings.php:1781
+msgid "Quiz Submitted by user"
+msgstr "آزمون توسط کاربر ارسال شد"
+
+#: includes/musettings.php:1792
+msgid "Quiz Reset by Instructor"
+msgstr "آزمون توسط استاد بازنشانی شد"
+
+#: includes/musettings.php:1803
+msgid "Quiz Retake by User"
+msgstr "آزمون توسط کاربر دوباره شروع شد"
+
+#: includes/musettings.php:1814
+msgid "Quiz Evaluation"
+msgstr "ارزیابی آزمون"
+
+#: includes/musettings.php:1825
+msgid "Assignment Start by user"
+msgstr "تکلیف توسط کاربر شروع شد"
+
+#: includes/musettings.php:1836
+msgid "Assignment Submitted by user"
+msgstr "ارسال"
+
+#: includes/musettings.php:1847
+msgid "Assignment Evaluation"
+msgstr "ارزیابی تکلیف"
+
+#: includes/musettings.php:1858
+msgid "Assignment Reset by Instructor"
+msgstr "بازنشانی تکالیف توسط استاد"
+
+#: includes/musettings.php:1869
+msgid "Student applied for Course"
+msgstr "دانشجو برای دوره پذیرفته شد"
+
+#: includes/musettings.php:1880
+msgid "Instructor approves/rejects user application"
+msgstr "استاد می پذیرد/نمی پذیرد application کاربر"
+
+#: includes/musettings.php:1891
+msgid "Instructor Publishes a Course or Sends for Approval"
+msgstr ""
+
+#: includes/musettings.php:1905
+msgid "Email Settings"
+msgstr "تنظیمات ایمیل"
+
+#: includes/musettings.php:1906
+msgid "Configure email template for Emails."
+msgstr ""
+
+#: includes/musettings.php:1909
+msgid "Email Options"
+msgstr "تنظیمات ایمیل"
+
+#: includes/musettings.php:1910
+msgid "Email Schedule"
+msgstr "زمانبندی ایمیل"
+
+#: includes/musettings.php:1911
+msgid "Scheduled Emails"
+msgstr ""
+
+#: includes/musettings.php:1937
+msgid "FROM \"Name\""
+msgstr "از \"نام\""
+
+#: includes/musettings.php:1940
+msgid "Name from which the email will be sent"
+msgstr ""
+
+#: includes/musettings.php:1943
+msgid "FROM \"Email\""
+msgstr "از \"ایمیل\""
+
+#: includes/musettings.php:1946
+msgid "Email from which the email will be sent"
+msgstr ""
+
+#: includes/musettings.php:1949
+msgid "Contact Form email"
+msgstr ""
+
+#: includes/musettings.php:1953
+msgid "Contact Form email sent when using contact form shortcode."
+msgstr ""
+
+#: includes/musettings.php:1956
+msgid "Edit Activation email"
+msgstr ""
+
+#: includes/musettings.php:1960
+msgid "Activation email sent by BuddyPress on user registration."
+msgstr ""
+
+#: includes/musettings.php:1963
+msgid "Edit Forgot Password email"
+msgstr ""
+
+#: includes/musettings.php:1967
+msgid ""
+"Forgot password email sent by WordPress when user clicks on forgot password "
+"link."
+msgstr ""
+
+#: includes/musettings.php:1977
+#, php-format
+msgid "Schedule Drip Feed Email %s Edit Email %s"
+msgstr ""
+
+#: includes/musettings.php:1982
+msgid "Enable Drip Feed Email"
+msgstr "فعال سازی ایمیل قطره چکانی"
+
+#: includes/musettings.php:1989
+msgid "Email students when the drip feed units are available"
+msgstr "وقتی جلسات قطره چکانی در دسترس شد به کاربر ایمیل داده شود"
+
+#: includes/musettings.php:1992 includes/musettings.php:2022
+msgid "Schedule Email"
+msgstr "زمانبندی ایمیل"
+
+#: includes/musettings.php:1996
+msgid "Before 24 Hours of unit availability"
+msgstr "24 ساعت قبل از در دسترس قرار گرفتن جلسه"
+
+#: includes/musettings.php:1997
+msgid "Before 12 Hours of unit availability"
+msgstr "12 ساعت قبل از در دسترس قرار گرفتن جلسه"
+
+#: includes/musettings.php:1998
+msgid "Before 6 Hours of unit availability"
+msgstr "6 ساعت قبل از در دسترس قرار گرفتن جلسه"
+
+#: includes/musettings.php:1999
+msgid "Before 1 Hours of unit availability"
+msgstr "1 ساعت قبل از در دسترس قرار گرفتن جلسه"
+
+#: includes/musettings.php:2000
+msgid "When Unit is available"
+msgstr "وقتی جلسه در دسترس قرار گرفت"
+
+#: includes/musettings.php:2002 includes/musettings.php:2032
+#: includes/musettings.php:2054
+msgid "Accuracy of email depends upon site traffic and resources."
+msgstr "دقت ارسال ایمیل به ترافیک و منابع سایت بستگی دارد"
+
+#: includes/musettings.php:2007
+#, php-format
+msgid "Schedule Course Expiry Email %s Edit Email %s"
+msgstr ""
+
+#: includes/musettings.php:2012
+msgid "Enable Course Expire Email"
+msgstr "فعال سازی ایمیل انقضاء دوره"
+
+#: includes/musettings.php:2019
+msgid "Email students when the course expires"
+msgstr "ارسال ایمیل به دانشجویان هنگام انقضاء دوره"
+
+#: includes/musettings.php:2026
+msgid "Before 24 Hours of Course expiry"
+msgstr "24 ساعت قبل از انقضاء دوره"
+
+#: includes/musettings.php:2027
+msgid "Before 12 Hours of Course expiry"
+msgstr "12 ساعت قبل از انقضاء دوره"
+
+#: includes/musettings.php:2028
+msgid "Before 6 Hours of Course expiry"
+msgstr "6 ساعت قبل از انقضاء دوره"
+
+#: includes/musettings.php:2029
+msgid "Before 1 Hours of Course expiry"
+msgstr "1 ساعت قبل از انقضاء دوره"
+
+#: includes/musettings.php:2030
+msgid "When Course expires"
+msgstr "وقتی دوره منقضی شد"
+
+#: includes/musettings.php:2036
+#, php-format
+msgid "Schedule Inactive Users Email %s Edit Email %s"
+msgstr ""
+
+#: includes/musettings.php:2041
+msgid "Enable Inactive Users Email"
+msgstr ""
+
+#: includes/musettings.php:2048
+msgid ""
+"Email users when they are inactive on the website for a specifc time period"
+msgstr ""
+
+#: includes/musettings.php:2051
+msgid "Schedule Inactivity Email (in days)"
+msgstr ""
+
+#: includes/musettings.php:2083
+msgid "Cron removed."
+msgstr ""
+
+#: includes/musettings.php:2083 includes/musettings.php:2085
+msgid "Dismiss this notice."
+msgstr ""
+
+#: includes/musettings.php:2085
+msgid "There was an error while removing cron."
+msgstr ""
+
+#: includes/musettings.php:2092
+msgid "Are you sure you want to remove this schedule?"
+msgstr ""
+
+#: includes/musettings.php:2107 includes/musettings.php:2120
+msgid "Remove Schedule"
+msgstr ""
+
+#: includes/musettings.php:2128
+msgid "Course Expiry mail"
+msgstr ""
+
+#: includes/musettings.php:2128
+msgid "Drip feed mail"
+msgstr ""
+
+#: includes/musettings.php:2128
+msgid "N.A"
+msgstr ""
+
+#: includes/musettings.php:2134 includes/musettings.php:2137
+msgid "No Scheduled emails"
+msgstr ""
+
+#: includes/musettings.php:2145
+msgid "WPLMS Batches"
+msgstr ""
+
+#: includes/musettings.php:2146
+msgid "Course Batches for WPLMS"
+msgstr ""
+
+#: includes/musettings.php:2157
+msgid "WPLMS S3"
+msgstr ""
+
+#: includes/musettings.php:2158
+msgid "Secure files using Amazon S3."
+msgstr "فایل های امن استفاده شده ی Amazon S3"
+
+#: includes/musettings.php:2169
+msgid "WPLMS Mailchimp"
+msgstr ""
+
+#: includes/musettings.php:2170
+msgid "Mailchimp Lists for WPLMS"
+msgstr ""
+
+#: includes/musettings.php:2181
+msgid "WPLMS WooCommerce"
+msgstr "ووکامرسی WPLMS"
+
+#: includes/musettings.php:2182
+msgid "Integrate WPLMS with WooCommerce."
+msgstr "ادغام WPLMS با  WooCommerce."
+
+#: includes/musettings.php:2193
+msgid "WPLMS Wishlists"
+msgstr ""
+
+#: includes/musettings.php:2194
+msgid "Create unlimited, sharable wishlists."
+msgstr ""
+
+#: includes/musettings.php:2205
+msgid "WPLMS Custom Course Navigation"
+msgstr ""
+
+#: includes/musettings.php:2206
+msgid "Customise Course Sections"
+msgstr ""
+
+#: includes/musettings.php:2216
+msgid "WP Courseware to WPLMS Migration"
+msgstr ""
+
+#: includes/musettings.php:2217
+msgid "Migrate Courses from WP Courseware to WPLMS."
+msgstr ""
+
+#: includes/musettings.php:2227
+msgid "WPLMS CoAuthors Plus"
+msgstr ""
+
+#: includes/musettings.php:2228
+msgid "Integrate  WP CoAuhors plus plugin"
+msgstr "ادغام افزونه WP CoAuhors plus"
+
+#: includes/musettings.php:2238
+msgid "WPLMS BadgeOS"
+msgstr "گواهی و لوگو دوره سیستم آموزشی"
+
+#: includes/musettings.php:2239
+msgid "Connect BadgeOS badges with WPLMS"
+msgstr "اتصال نشان  BadgeOS دوره سیستم آموزشی"
+
+#: includes/musettings.php:2249
+msgid "WPLMS DW Q&A"
+msgstr ""
+
+#: includes/musettings.php:2250
+msgid "Integrate DW Questions & Answer with WPLMS"
+msgstr "ادغام پرسش و پاسخ DW  با WPLMS"
+
+#: includes/musettings.php:2260
+msgid "WPLMS Easy Digital Downloads"
+msgstr "دانلود آسان دیجیتال WPLMS"
+
+#: includes/musettings.php:2261
+msgid "Connect Easy Digital downloads with WPLMS"
+msgstr "اتصال دانلود آسان دیجیتال با WPLMS"
+
+#: includes/musettings.php:2271
+msgid "BP Social Connect"
+msgstr "اتصال شبکه اجتماعی BP"
+
+#: includes/musettings.php:2272
+msgid "Connect your BuddyPress site with Social networks Login &  Registration"
+msgstr "اتصال سایت بادی پرس خود با شبکه های اجتماعی"
+
+#: includes/musettings.php:2282
+msgid "BP Profile Cover"
+msgstr "کاور پروفایل BP"
+
+#: includes/musettings.php:2283
+msgid "Add cover images to Profiles"
+msgstr "افزودن تصویر کاور به پروفایل"
+
+#: includes/musettings.php:2293
+msgid "WPLMS Custom Certificate Codes"
+msgstr "کدهای شخصی گواهی WPLMS "
+
+#: includes/musettings.php:2294
+msgid "Define custom certificate codes for Certificates"
+msgstr "تعریف کدهای شخصی گواهی برای گواهی ها"
+
+#: includes/musettings.php:2333
+msgid "Enter License Key"
+msgstr "کلید مجوز را وارد کنید"
+
+#: includes/musettings.php:2347
+msgid "License Key"
+msgstr "لایسنس"
+
+#: includes/musettings.php:2405 includes/musettings.php:2462
+#: includes/musettings.php:2493 includes/musettings.php:2509
+#: includes/musettings.php:2592 includes/musettings.php:2627
+#: includes/musettings.php:2638 includes/musettings.php:2665
+#: includes/musettings.php:2674 includes/musettings.php:2698
+#: includes/musettings.php:2707 includes/musettings.php:2727
+#: includes/tips.php:636 includes/tips.php:1449 metaboxes/meta_box.php:1405
+#: metaboxes/meta_box.php:1434
+msgid "Security check Failed. Contact Administrator."
+msgstr "بررسی امنیتی شکست خورد. با مدیر تماس بگیرید."
+
+#: includes/musettings.php:2497
+msgid "Unable to update key."
+msgstr "قادر به بروزرسانی Key نمیباشد"
+
+#: includes/musettings.php:2501
+msgid "Key Updated."
+msgstr "کلید به روزرسانی شد"
+
+#: includes/musettings.php:2632
+#, php-format
+msgid "%s redundant records removed. Course Student verification completed."
+msgstr ""
+
+#: includes/musettings.php:2668
+msgid "Quiz results sync complete !"
+msgstr ""
+
+#: includes/musettings.php:2701
+msgid "Course - Units - Student sync complete !"
+msgstr ""
+
+#: includes/musettings.php:2730
+msgid "Course - Forums sync complete !"
+msgstr ""
+
+#: includes/permalinks.php:35
+msgid "Courses permalink base"
+msgstr "اساس پیوندهای یکتا دوره"
+
+#: includes/permalinks.php:38
+msgid "Course category base"
+msgstr "اساس دسته بندی دوره"
+
+#: includes/permalinks.php:70
+msgid ""
+"These settings control the permalinks used for courses. These settings only "
+"apply when <strong>not using \"default\" permalinks above</strong>."
+msgstr ""
+"این تنظیمات پیوندهای یکتا را برای دوره ها کنترل میکند. این تنظیمات فقط وقتی "
+"فعال اند که <strong> از گزینه پیش فرض در پیوندهای یکتا استفتده نشود <strong>."
+
+#: includes/permalinks.php:102
+msgid "Course Directory"
+msgstr "فهرست دوره ها"
+
+#: includes/permalinks.php:107 includes/permalinks.php:123
+#: includes/permalinks.php:139
+msgid "Custom Base"
+msgstr "پایه سفارشی"
+
+#: includes/permalinks.php:109 includes/permalinks.php:125
+#: includes/permalinks.php:141
+msgid ""
+"Enter a custom base to use. A base <strong>must</strong> be set or WordPress "
+"will use default instead."
+msgstr ""
+"یک پایه سفارشی برای استفاده وارد کنید. یک پایه <strong>باید<strong> تنظیم "
+"شده یا در عوض وردپرس به صورت پیش فرض استفاده کند."
+
+#: includes/permalinks.php:116
+msgid "Quiz Permalinks"
+msgstr "پیوندهای یکتای آزمون"
+
+#: includes/permalinks.php:132
+msgid "Unit Permalinks"
+msgstr "پیوندهای یکتای جلسه"
+
+#: includes/permalinks.php:146
+msgid "Course Action End points"
+msgstr "نقطه های Action End دوره"
+
+#: includes/permalinks.php:147
+msgid ""
+"Course action points, these endpoints are appended to your course URLs to "
+"handle specific actions. They should be unique."
+msgstr ""
+"نقاط عمل البته، این نقطه انتهایی به URL های دوره خود را اضافه که مسئولیت "
+"رسیدگی به اقدامات خاص. آنها باید منحصر به فرد باشد."
+
+#: includes/permalinks.php:151
+msgid "Curriculum"
+msgstr "برنامه درسی"
+
+#: includes/permalinks.php:153
+msgid "Course Curriculum slug"
+msgstr "نامک دوره تحصیلی"
+
+#: includes/permalinks.php:157
+msgid "Activity"
+msgstr "فعالیت"
+
+#: includes/permalinks.php:159
+msgid "Course Activity slug"
+msgstr "نامک دوره فعالیت"
+
+#: includes/permalinks.php:163
+msgid "Members"
+msgstr "اعضاء"
+
+#: includes/permalinks.php:165
+msgid "Course Members slug"
+msgstr "نامک اعضاء دوره"
+
+#: includes/permalinks.php:169
+msgid "Admin"
+msgstr "ادمین"
+
+#: includes/permalinks.php:171
+msgid "Course Admin slug"
+msgstr "نامک مدیر دوره"
+
+#: includes/permalinks.php:175
+msgid "Submissions"
+msgstr "ارسال ها"
+
+#: includes/permalinks.php:177
+msgid "Course Admin - Submissions slug"
+msgstr "مدیر دوره - نامک ارسال ها"
+
+#: includes/permalinks.php:183
+msgid "Course Admin - Statistics slug"
+msgstr "مدیر دوره - نامک آمار ها"
+
+#: includes/profile_menu_dropdown_settings.php:108
+msgid "Profile Menu Dropdown"
+msgstr ""
+
+#: includes/profile_menu_dropdown_settings.php:112
+msgid "Manage Profile Menu Dropdown"
+msgstr ""
+
+#: includes/statistics.php:20 includes/statistics.php:28
+#: includes/statistics.php:70 includes/statistics.php:76
+#: includes/statistics.php:80
+msgid "Overview"
+msgstr "نمای کلی"
+
+#: includes/statistics.php:23 includes/statistics.php:754
+msgid "Students"
+msgstr "دانشجو"
+
+#: includes/statistics.php:24 includes/statistics.php:806
+msgid "Download Stats"
+msgstr "دانلود آمار"
+
+#: includes/statistics.php:29
+msgid "My Courses"
+msgstr "دوره هایی که در آنها شرکت کرده ام"
+
+#: includes/statistics.php:71
+msgid "Daily"
+msgstr "روزانه"
+
+#: includes/statistics.php:72
+msgid "Monthly"
+msgstr "ماهانه"
+
+#: includes/statistics.php:73
+msgid "Custom"
+msgstr "دلخواه"
+
+#: includes/statistics.php:77
+msgid "Most Students"
+msgstr "دارای بیشترین دانشجو"
+
+#: includes/statistics.php:81
+msgid "Popular"
+msgstr "محبوب"
+
+#: includes/statistics.php:138
+msgid "Subscriptions"
+msgstr "اشتراک ها"
+
+#: includes/statistics.php:143
+msgid "Number of students"
+msgstr "تعداد دانشجویان"
+
+#: includes/statistics.php:180
+msgid "Custom Date Selection"
+msgstr "انتخاب بازه زمانی دلخواه"
+
+#: includes/statistics.php:236 includes/statistics.php:1053
+msgid "Total Students"
+msgstr "مجموع دانشجویان"
+
+#: includes/statistics.php:237 includes/statistics.php:243
+#: includes/statistics.php:249 includes/statistics.php:255
+#: includes/statistics.php:261 includes/statistics.php:585
+#: includes/statistics.php:591 includes/statistics.php:597
+#: includes/statistics.php:603 includes/statistics.php:609
+#: includes/statistics.php:932 includes/statistics.php:938
+#: includes/statistics.php:944 includes/statistics.php:1055
+#: includes/statistics.php:1061 includes/statistics.php:1067
+#: includes/statistics.php:1171 includes/statistics.php:1177
+#: includes/statistics.php:1183 includes/statistics.php:1455
+#: includes/statistics.php:1461 includes/statistics.php:1467
+#: includes/statistics.php:1473
+msgid "n/a"
+msgstr "نامعلوم"
+
+#: includes/statistics.php:242 includes/statistics.php:930
+msgid "Total Instructors"
+msgstr "مجموع اساتید"
+
+#: includes/statistics.php:248
+msgid "Total Course Taken"
+msgstr "مجموع دوره های گرفته شده"
+
+#: includes/statistics.php:254
+msgid "Total Badges"
+msgstr "مجموع نشان ها"
+
+#: includes/statistics.php:260
+msgid "Total Certificates"
+msgstr "مجموع گواهی های پایان دوره"
+
+#: includes/statistics.php:268 includes/statistics.php:1190
+msgid "This year's monthly subscriptions"
+msgstr "اشتراک های ماهیانه امسال"
+
+#: includes/statistics.php:270 includes/statistics.php:1192
+msgid "This month's daily subscriptions"
+msgstr "اشتراک های روزانه این ماه"
+
+#: includes/statistics.php:366 includes/statistics.php:1293
+msgid "Number of Courses Started"
+msgstr "تعداد دوره های شروع شده"
+
+#: includes/statistics.php:583
+msgid "Total Students taking courses"
+msgstr "مجموع دانشجویان شرکت کرده در دوره ها"
+
+#: includes/statistics.php:589
+msgid "Courses Started By Students"
+msgstr "دوره های شروع شده توسط دانشجویان"
+
+#: includes/statistics.php:595
+msgid "Total Courses Finished by Students"
+msgstr "مجموع دوره های پایان یافته توسط دانشجویان"
+
+#: includes/statistics.php:601
+msgid "Total Units Finished by Students"
+msgstr "مجموع جلسات پایان یافته توسط دانشجویان"
+
+#: includes/statistics.php:607
+msgid "Total Quiz Finished by Students"
+msgstr "مجموع آزمون های پایان یافته توسط  دانشجویان"
+
+#: includes/statistics.php:651 includes/statistics.php:1085
+msgid "Prev"
+msgstr "قبلی"
+
+#: includes/statistics.php:660 includes/statistics.php:1094
+msgid "Next"
+msgstr "بعدی"
+
+#: includes/statistics.php:747
+msgid "Download Standard Reports"
+msgstr "دانلود گزارشات استاندارد"
+
+#: includes/statistics.php:808
+msgid "Generate report"
+msgstr "تولید گزارش"
+
+#: includes/statistics.php:936
+msgid "Total Courses Evaluated by Instructor"
+msgstr "مجموع دوره های ارزیابی شده توسط استاد"
+
+#: includes/statistics.php:942
+msgid "Total Quiz Evaluated by Instructor"
+msgstr "مجموع آزمون های ارزیابی شده توسط استاد"
+
+#: includes/statistics.php:1059
+msgid "Total Active Students"
+msgstr "مجموع دانشجویان فعال"
+
+#: includes/statistics.php:1065
+msgid "Total Course Students "
+msgstr "مجموع دانشجویان دوره"
+
+#: includes/statistics.php:1169
+msgid "Total Students in My Courses"
+msgstr "مجموع دانشجویان شرکت کرده در دوره های من"
+
+#: includes/statistics.php:1175
+msgid "Total Badges given in My Courses"
+msgstr "مجموع مدال های گرفته شده در دوره های من"
+
+#: includes/statistics.php:1181
+msgid "Total Certificates given in My Courses"
+msgstr "مجموع گواهی های پایان دوره گرفته شده در دوره های من"
+
+#: includes/statistics.php:1453
+msgid "Total Students taking my courses"
+msgstr "مجموع دانشجویانی که در دوره های من شرکت کرده اند"
+
+#: includes/statistics.php:1459
+msgid "My Courses Finished by Students"
+msgstr "دوره های پایان یافته من توسط دانشجویان"
+
+#: includes/statistics.php:1465
+msgid "My Units Finished by Students"
+msgstr "جلسات پایان یافته من توسط دانشجویان"
+
+#: includes/statistics.php:1471
+msgid "My Quiz Finished by Students"
+msgstr "آزمون های پایان یافته من توسط دانشجویان"
+
+#: includes/tips.php:317
+msgid "Take the Course to Start the Quiz"
+msgstr ""
+
+#: includes/tips.php:556
+msgid "Please Check Terms & Conditions"
+msgstr "لطفاُ شرایط و ضوابط را بررسی کیند"
+
+#: includes/tips.php:582
+msgid " I agree to these Terms and Conditions"
+msgstr "با این شرایط و ضوابط موافقم"
+
+#: includes/tips.php:731
+msgid "Quiz passing marks/score"
+msgstr ""
+
+#: includes/tips.php:732
+msgid ""
+"Passing marks/score for quiz. Combined with Prev.Unit/Quiz lock the user "
+"progress can be restricted."
+msgstr ""
+
+#: includes/tips.php:745
+msgid "SET QUIZ PASSING SCORE"
+msgstr "تنظیم نمره قبولی در آزمون"
+
+#: includes/tips.php:787
+msgid "NEGATIVE MARKS PER QUESTION"
+msgstr "نمرات منفی هر سوال"
+
+#: includes/tips.php:802
+msgid "Clear marked answer"
+msgstr ""
+
+#: includes/tips.php:822
+msgid "Negative Marks per Question"
+msgstr "نمرات منفی هر سوال"
+
+#: includes/tips.php:823
+msgid "Deduct marks for a Wrong answer."
+msgstr "کسر نمره برای یک پاسخ اشتباه"
+
+#: includes/tips.php:916
+msgid "COMING SOON"
+msgstr "به زودی"
+
+#: includes/tips.php:931
+msgid "Coming soon Mode"
+msgstr "حالت به زودی"
+
+#: includes/tips.php:932
+msgid "Enable Coming soon mode"
+msgstr "فعال کردن حالت به زودی"
+
+#: includes/tips.php:960
+msgid "Coming Soon mode"
+msgstr "حالت به زودی"
+
+#: includes/tips.php:965
+msgid "Enable"
+msgstr "فعال کردن"
+
+#: includes/tips.php:1159
+msgid "Top Menu for Students"
+msgstr "فهرست بالا برای دانشجویان"
+
+#: includes/tips.php:1160
+msgid "Main Menu for Students"
+msgstr "فهرست اصلی برای دانشجویان"
+
+#: includes/tips.php:1161
+msgid "Mobile Menu for Students"
+msgstr "فهرست موبایل برای دانشجویان"
+
+#: includes/tips.php:1168
+msgid "Top Menu for Instructor"
+msgstr "فهرست بالا برای استاد"
+
+#: includes/tips.php:1169
+msgid "Main Menu for Instructor"
+msgstr "فهرست اصلی برای استاد"
+
+#: includes/tips.php:1170
+msgid "Mobile Menu for Instructor"
+msgstr "فهرست موبایل برای استاد"
+
+#: includes/tips.php:1182
+msgid "Create a Course"
+msgstr ""
+
+#: includes/tips.php:1210
+msgid "Make Instructor"
+msgstr "استاد شود"
+
+#: includes/tips.php:1252
+msgid "There was some error"
+msgstr "خطایی وجود داشت"
+
+#: includes/tips.php:1254
+msgid "Make Student"
+msgstr "دانشجو شود"
+
+#: includes/tips.php:1272
+msgid "Send Message"
+msgstr "ارسال پیغام"
+
+#: includes/tips.php:1276
+msgid "Send Email"
+msgstr "ارسال ایمیل"
+
+#: includes/tips.php:1368
+msgid "Congratulations ! You've been subscribed to the course"
+msgstr ""
+
+#: includes/tips.php:1372
+msgid "Course not available for subscription."
+msgstr ""
+
+#: includes/tips.php:1396
+msgid "TAKE THIS COURSE"
+msgstr ""
+
+#: includes/tips.php:1415
+msgid "My Orders"
+msgstr "سفارش های من"
+
+#: includes/tips.php:1426
+msgid "My Membership"
+msgstr "عضویت من"
+
+#: includes/tips.php:1455 includes/tips.php:1461
+msgid "Code does not exist. Please check the code."
+msgstr "کد وجود ندارد. لطفا چک کنید."
+
+#: includes/tips.php:1476 includes/tips.php:1487
+msgid "Congratulations! You are now added to the course."
+msgstr "تبریک! شما به دوره اضافه شدید."
+
+#: includes/tips.php:1478 includes/tips.php:1489
+msgid "User already in course."
+msgstr "کاربر در حال حاضر در این دوره حضور دارد."
+
+#: includes/tips.php:1481
+msgid "Maximum number of usage for course code exhausted"
+msgstr "حداکثر میزان استفاده از کد دوره"
+
+#: includes/tips.php:1517
+msgid "Course Codes"
+msgstr "کد های دوره"
+
+#: includes/tips.php:1518
+msgid "Enter Course codes (XXX|2,YYY|4)"
+msgstr "کد های دوره را وارد کنید  (XXX|2,YYY|4)"
+
+#: includes/tips.php:1533
+msgid "Set Course purchase codes"
+msgstr "تنظیم کد های خرید دوره"
+
+#: includes/tips.php:1534
+msgid ""
+"Student can gain access to Course using course codes (multiple codes comma "
+"separated, usage count pipe saperate eg : xxx|2,yyy|4)"
+msgstr ""
+"دانشجو قادر است با استفاد از کد های دوره به دوره دسترسی داشته باشد (کدهای "
+"جدا شده با کاما، usage count pipe saperate eg : xxx|2,yyy|4)"
+
+#: includes/tips.php:1543
+msgid "Access Date"
+msgstr "تاریخ دسترسی"
+
+#: includes/tips.php:1544
+msgid "Date on which unit is accessible"
+msgstr "تاریخی در دسترس قرار گرفتن جلسه"
+
+#: includes/tips.php:1549
+msgid "Access Time"
+msgstr "زمان دسترسی"
+
+#: includes/tips.php:1550
+msgid "Time after which unit is accessible"
+msgstr "زمانی که بعد از آن جلسه در دسترس خواهد بود"
+
+#: includes/tips.php:1584
+msgid "Unit access date"
+msgstr "تاریخ دسترسی به جلسه"
+
+#: includes/tips.php:1585
+msgid "Access date"
+msgstr "تاریخ دسترسی"
+
+#: includes/tips.php:1587
+msgid "Unit access time"
+msgstr "زمان دسترسی به جلسه"
+
+#: includes/tips.php:1588
+msgid "Access time"
+msgstr "زمان دسترسی"
+
+#: includes/tips.php:1707
+msgid "No Description Found"
+msgstr ""
+
+#: includes/tips.php:1746
+msgid "<strong>ERROR</strong>: User already logged in."
+msgstr ""
+"<strong>خطا</strong>: کاربر در حال حاضر وارد سایت شده است (لاگین کرده است)."
+
+#: includes/tips.php:1756
+msgid "External Course button link"
+msgstr "لینک دکمه دوره خارجی"
+
+#: includes/tips.php:1757
+msgid "Connect Course button to an external page (Leave blank to skip)"
+msgstr "ارتباط دکمه دوره به صفحه خارجی (برای رد شدن خالی بگذارید)"
+
+#: includes/tips.php:1758
+msgid "Enter the external page url. Leave blank or 0 to skip"
+msgstr "وارد کردن لینک صفحه خارجی. برای رد شدن 0 یا خالی بگذارید"
+
+#: includes/tips.php:1967
+msgid "WPLMS Course codes widget"
+msgstr "ابزارک کد های دوره WPLMS "
+
+#: includes/tips.php:1969
+msgid "WPLMS Course Codes"
+msgstr "کدهای دوره WPLMS "
+
+#: includes/tips.php:1993
+msgid "Submit"
+msgstr "ارسال"
+
+#: includes/tips.php:2008
+msgid "Enter Course code"
+msgstr "کد دوره را وارد کنید"
+
+#: includes/tips.php:2009
+msgid "Place holder text"
+msgstr "متن Place holder"
+
+#: includes/tips.php:2014
+msgid "Course Codes input box text"
+msgstr "متن input box  کد های دوره"
+
+#: metaboxes/library/vibe-editor.php:1048
+msgid "Loading.."
+msgstr "در حال بارگذاری.."
+
+#: metaboxes/library/vibe-editor.php:1049
+msgid "No more to load"
+msgstr "دوره دیگری وجود ندارد"
+
+#: metaboxes/library/vibe-editor.php:1403
+msgid "Confirm Delete?"
+msgstr "از حذف مطمئنید؟"
+
+#: metaboxes/library/vibe-editor.php:1403
+msgid "Saving..."
+msgstr "در حال ذخیره ..."
+
+#: metaboxes/library/vibe-editor.php:1403
+msgid "Saved."
+msgstr "ذخیره شد."
+
+#: metaboxes/library/vibe-editor.php:1425
+msgid "Course News"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:1450
+msgid "Carousels/Rotating Blocks"
+msgstr "بلوک های Carousels/Rotating"
+
+#: metaboxes/library/vibe-editor.php:1454
+#: metaboxes/library/vibe-editor.php:2098
+#: metaboxes/library/vibe-editor.php:2315
+msgid "Title/Heading"
+msgstr "عنوان/سربرگ"
+
+#: metaboxes/library/vibe-editor.php:1456
+#: metaboxes/library/vibe-editor.php:1610
+#: metaboxes/library/vibe-editor.php:1718
+#: metaboxes/library/vibe-editor.php:2100
+#: metaboxes/library/vibe-editor.php:2317
+msgid "Heading"
+msgstr "سر صفحه"
+
+#: metaboxes/library/vibe-editor.php:1460
+#: metaboxes/library/vibe-editor.php:1613
+#: metaboxes/library/vibe-editor.php:1721
+#: metaboxes/library/vibe-editor.php:2104
+msgid "Show Title"
+msgstr "نمایش عنوان"
+
+#: metaboxes/library/vibe-editor.php:1467
+#: metaboxes/library/vibe-editor.php:2111
+msgid "Show more link"
+msgstr "نمایش لینک بیشتر"
+
+#: metaboxes/library/vibe-editor.php:1474
+#: metaboxes/library/vibe-editor.php:2118
+msgid "More Link (User redirected to this page on click)"
+msgstr "لینک بیشتر (کاربر با کلیک کردن به این صفحه هدایت شود)"
+
+#: metaboxes/library/vibe-editor.php:1480
+#: metaboxes/library/vibe-editor.php:2124
+#: metaboxes/library/vibe-editor.php:2325
+#: metaboxes/library/vibe-editor.php:2332
+#: metaboxes/library/vibe-editor.php:2338
+msgid "Show Direction arrows"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:1487
+#: metaboxes/library/vibe-editor.php:2131
+#: metaboxes/library/vibe-editor.php:2344
+msgid "Show Control dots"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:1495
+msgid ""
+"Enter Post Type<br /><span style=\"font-size:11px;\">(Select Post Type from "
+"Posts/Courses/Clients/Products ...)</span>"
+msgstr ""
+"Post Type را وارد کنید<br /><span style=\"font-size:11px;\">(انتخاب نوع مطلب "
+"از بین مطالب/دوره ها/مشتریان/محصولات ...)</span>"
+
+#: metaboxes/library/vibe-editor.php:1498
+#: metaboxes/library/vibe-editor.php:1622
+#: metaboxes/library/vibe-editor.php:1730
+msgid "post"
+msgstr "نوشته"
+
+#: metaboxes/library/vibe-editor.php:1502
+#: metaboxes/library/vibe-editor.php:1734
+msgid ""
+"Enter Taxonomy Slug (optional)<br /><span style=\"font-size:11px;\">(A "
+"\"Taxonomy\" is a grouping mechanism for posts. Like Category for Posts, "
+"Tags for Posts, Portfolio Type for Portfolio etc.. <a href=\"http://codex."
+"wordpress.org/Taxonomies\">more</a>)</span> "
+msgstr ""
+"نامک تاکسونومی را وارد کنید (اختیاری)<br /><span style=\"font-size:11px;\"> "
+"تاکسونومی مکانیزمی برای گروه بندی مطالب می باشد. مانند دسته بندی مطالب، "
+"برچسب ها مطالب، نوع نمونه کار برای نمونه کار و غیره ....<a href=\"http://"
+"codex.wordpress.org/Taxonomies\">بیشتر</a>)</span> "
+
+#: metaboxes/library/vibe-editor.php:1508
+msgid ""
+"Enter Taxonomy Term Slug (optional, only if above is selected, comma "
+"saperated for multiple terms): "
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:1513
+msgid "Or Enter Specific Post Ids"
+msgstr "یا  Post Id خاص را وارد کنید"
+
+#: metaboxes/library/vibe-editor.php:1518
+#: metaboxes/library/vibe-editor.php:1635
+#: metaboxes/library/vibe-editor.php:1751
+msgid "Course Types [Only for Post type = Course]"
+msgstr "انواع دوره [فقط برای Post type = دوره]"
+
+#: metaboxes/library/vibe-editor.php:1529
+#: metaboxes/library/vibe-editor.php:1646
+#: metaboxes/library/vibe-editor.php:1762
+msgid "recent"
+msgstr "اخیر"
+
+#: metaboxes/library/vibe-editor.php:1532
+msgid "Carousel/Rotating Block Style"
+msgstr "استایل بلوک چCarousel/Rotating"
+
+#: metaboxes/library/vibe-editor.php:1535
+#: metaboxes/library/vibe-editor.php:1652
+#: metaboxes/library/vibe-editor.php:1768
+msgid "excerpt"
+msgstr "چکیده"
+
+#: metaboxes/library/vibe-editor.php:1538
+#: metaboxes/library/vibe-editor.php:2166
+#: metaboxes/library/vibe-editor.php:2350
+msgid "Auto slide/rotate"
+msgstr "اسلاید/چرخش خودکار"
+
+#: metaboxes/library/vibe-editor.php:1544
+#: metaboxes/library/vibe-editor.php:2172
+#: metaboxes/library/vibe-editor.php:2356
+msgid "Width each crousel block"
+msgstr "عرض هر بلوک crousel "
+
+#: metaboxes/library/vibe-editor.php:1546
+#: metaboxes/library/vibe-editor.php:2174
+#: metaboxes/library/vibe-editor.php:2358
+msgid "268"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:1549
+#: metaboxes/library/vibe-editor.php:2177
+#: metaboxes/library/vibe-editor.php:2361
+msgid "Maximum Number of blocks in One screen"
+msgstr "حداکثر تعداد بلوک در یک صفحه نمایش"
+
+#: metaboxes/library/vibe-editor.php:1551
+#: metaboxes/library/vibe-editor.php:2179
+#: metaboxes/library/vibe-editor.php:2363
+msgid "4"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:1554
+#: metaboxes/library/vibe-editor.php:2182
+#: metaboxes/library/vibe-editor.php:2366
+msgid "Minimum Number of blocks in one Screen"
+msgstr "حداقل تعداد بلوک در یک صفحه نمایش"
+
+#: metaboxes/library/vibe-editor.php:1556
+#: metaboxes/library/vibe-editor.php:2184
+#: metaboxes/library/vibe-editor.php:2368
+msgid "2"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:1559
+#: metaboxes/library/vibe-editor.php:2187
+#: metaboxes/library/vibe-editor.php:2371
+msgid "Move blocks in one slide"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:1564
+#: metaboxes/library/vibe-editor.php:2192
+#: metaboxes/library/vibe-editor.php:2376
+msgid "Total Number of Blocks"
+msgstr "تعداد کل بلوک ها"
+
+#: metaboxes/library/vibe-editor.php:1566
+#: metaboxes/library/vibe-editor.php:1673
+#: metaboxes/library/vibe-editor.php:1803
+#: metaboxes/library/vibe-editor.php:2194
+#: metaboxes/library/vibe-editor.php:2378
+msgid "6"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:1570
+msgid "Excerpt Length in Block (in characters)"
+msgstr "طول چکیده در بلوک (به کاراکتر)"
+
+#: metaboxes/library/vibe-editor.php:1572
+#: metaboxes/library/vibe-editor.php:1668
+#: metaboxes/library/vibe-editor.php:1823
+msgid "100"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:1575
+#: metaboxes/library/vibe-editor.php:2197
+msgid "Show Link button on image hover"
+msgstr "نمایش دکمه پیوندی در هاور تصویر"
+
+#: metaboxes/library/vibe-editor.php:1581
+#: metaboxes/library/vibe-editor.php:1689
+#: metaboxes/library/vibe-editor.php:1834
+#: metaboxes/library/vibe-editor.php:1869
+#: metaboxes/library/vibe-editor.php:1950
+#: metaboxes/library/vibe-editor.php:2066
+#: metaboxes/library/vibe-editor.php:2203
+#: metaboxes/library/vibe-editor.php:2248
+#: metaboxes/library/vibe-editor.php:2291
+#: metaboxes/library/vibe-editor.php:2381
+#: metaboxes/library/vibe-editor.php:2411
+msgid "Show Advanced settings"
+msgstr "نمایش تنظیمات پیشرفته"
+
+#: metaboxes/library/vibe-editor.php:1586
+#: metaboxes/library/vibe-editor.php:1694
+#: metaboxes/library/vibe-editor.php:1839
+#: metaboxes/library/vibe-editor.php:1880
+#: metaboxes/library/vibe-editor.php:1961
+#: metaboxes/library/vibe-editor.php:2077
+#: metaboxes/library/vibe-editor.php:2208
+#: metaboxes/library/vibe-editor.php:2253
+#: metaboxes/library/vibe-editor.php:2296
+#: metaboxes/library/vibe-editor.php:2386
+#: metaboxes/library/vibe-editor.php:2416
+#: metaboxes/library/vibe-editor.php:2512
+msgid "* Custom Class name (Add Custom Class to this Block)"
+msgstr "* نام Class دلخواه)افزودن Class دلخواه به این بلوک)"
+
+#: metaboxes/library/vibe-editor.php:1590
+#: metaboxes/library/vibe-editor.php:1698
+#: metaboxes/library/vibe-editor.php:1843
+#: metaboxes/library/vibe-editor.php:1884
+#: metaboxes/library/vibe-editor.php:1965
+#: metaboxes/library/vibe-editor.php:2081
+#: metaboxes/library/vibe-editor.php:2212
+#: metaboxes/library/vibe-editor.php:2257
+#: metaboxes/library/vibe-editor.php:2300
+#: metaboxes/library/vibe-editor.php:2390
+#: metaboxes/library/vibe-editor.php:2420
+#: metaboxes/library/vibe-editor.php:2516
+msgid "* Class for on containing Layout column"
+msgstr "* کلاس برای ستون حاوی چیدمان"
+
+#: metaboxes/library/vibe-editor.php:1594
+#: metaboxes/library/vibe-editor.php:1702
+#: metaboxes/library/vibe-editor.php:1847
+#: metaboxes/library/vibe-editor.php:1888
+#: metaboxes/library/vibe-editor.php:1969
+#: metaboxes/library/vibe-editor.php:2085
+#: metaboxes/library/vibe-editor.php:2216
+#: metaboxes/library/vibe-editor.php:2261
+#: metaboxes/library/vibe-editor.php:2304
+#: metaboxes/library/vibe-editor.php:2394
+#: metaboxes/library/vibe-editor.php:2424
+#: metaboxes/library/vibe-editor.php:2520
+msgid ""
+"* Add Custom CSS (Use <strong>.</strong> for class name, <strong>:hover</"
+"strong> for hover styles etc..)"
+msgstr ""
+"* CSSاختصاصی وارد کنید (Use <strong>.</strong> برای نام Class , <strong>:"
+"hover</strong> برای استایل هاور و ...)"
+
+#: metaboxes/library/vibe-editor.php:1604
+msgid "Filterable Posts"
+msgstr "Post های قابل فیلتر"
+
+#: metaboxes/library/vibe-editor.php:1608
+msgid "Filterable Block Title"
+msgstr "عنوان بلوک قابل فیلتر شدن"
+
+#: metaboxes/library/vibe-editor.php:1619
+msgid "Select a Post Type"
+msgstr "انتخاب یک Post Type"
+
+#: metaboxes/library/vibe-editor.php:1625
+msgid ""
+"Enter relevant Taxonomy name used for Filter buttons (example : course-cat,"
+"event-type..)"
+msgstr ""
+"نام تاکسونومی مرتبط  را برای استفاده در دکمه های فیلتر وارد کنید (برای مثال: "
+"course-cat,event-type..)"
+
+#: metaboxes/library/vibe-editor.php:1630
+msgid "Enter terms (comma saperated term slugs) to be \"excluded\" in filters"
+msgstr ""
+"عباراتی که میخواهید از فیلترها حدف شوند را وارد کنید  (نامک عبارات جداشده با "
+"کاما) "
+
+#: metaboxes/library/vibe-editor.php:1649
+#: metaboxes/library/vibe-editor.php:1765
+msgid "Featured Media Block Style"
+msgstr "استایل بلوک Featured Media"
+
+#: metaboxes/library/vibe-editor.php:1655
+msgid "Show All link"
+msgstr "نمایش تمام لینک ها"
+
+#: metaboxes/library/vibe-editor.php:1661
+msgid "Column Width (in px)"
+msgstr "عرض ستون (به px)"
+
+#: metaboxes/library/vibe-editor.php:1666
+#: metaboxes/library/vibe-editor.php:1821
+msgid "Excerpt Length (in characters)"
+msgstr "طول چکیده (به کاراکتر)"
+
+#: metaboxes/library/vibe-editor.php:1671
+msgid "Total Number of blocks"
+msgstr "تعداد کل بلوک ها"
+
+#: metaboxes/library/vibe-editor.php:1676
+msgid "Show Pagination"
+msgstr "نمایش صفحه بندی"
+
+#: metaboxes/library/vibe-editor.php:1683
+msgid "Show Link [Links to Post]"
+msgstr "نمایش لینک [لینک ها به Post]"
+
+#: metaboxes/library/vibe-editor.php:1712
+msgid "Post Grid"
+msgstr "جدول Post"
+
+#: metaboxes/library/vibe-editor.php:1716
+msgid "Grid Title"
+msgstr "عنوان جدول"
+
+#: metaboxes/library/vibe-editor.php:1727
+msgid "Custom Post Type"
+msgstr "نوع نوشته اختصاصی"
+
+#: metaboxes/library/vibe-editor.php:1740
+msgid ""
+"Enter Taxonomy Term Slugs (optional, only if above is selected, comma "
+"saperated if multiple): "
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:1746
+msgid "Or Enter Specific Post Ids (comma saperated)"
+msgstr "یا Post Id های خاص را وارد کنید (جدا شده با کاما)"
+
+#: metaboxes/library/vibe-editor.php:1772
+msgid "Grid Masonry Layout"
+msgstr "طرح Masonry جدول"
+
+#: metaboxes/library/vibe-editor.php:1779
+msgid "Grid Columns"
+msgstr "ستون های جدول"
+
+#: metaboxes/library/vibe-editor.php:1791
+msgid "Masonry Grid Column Width(in px)"
+msgstr "عرض ستون جدول Masonry(به px)"
+
+#: metaboxes/library/vibe-editor.php:1796
+msgid "Spacing between Columns (in px)"
+msgstr "فاصله بین ستون ها (به px)"
+
+#: metaboxes/library/vibe-editor.php:1801
+msgid "Total Number of Blocks in Grid"
+msgstr "تعداد کل بلوک های در جدول"
+
+#: metaboxes/library/vibe-editor.php:1807
+msgid "Infinite Scroll"
+msgstr "اسکرول نامحدود"
+
+#: metaboxes/library/vibe-editor.php:1814
+msgid "Enable Pagination (If infinite scroll is off)"
+msgstr "فعال سازی صفحه بندی (در صورتیکه اسکرول نامحدود غیرفعال باشد)"
+
+#: metaboxes/library/vibe-editor.php:1827
+msgid "Show Link"
+msgstr "نمایش لینک"
+
+#: metaboxes/library/vibe-editor.php:1856
+msgid "WP Editor"
+msgstr "ویرایشگر WP "
+
+#: metaboxes/library/vibe-editor.php:1859
+#: metaboxes/library/vibe-editor.php:1900
+#: metaboxes/library/vibe-editor.php:1986
+msgid "Reference Title"
+msgstr "عنوان Reference "
+
+#: metaboxes/library/vibe-editor.php:1874
+#: metaboxes/library/vibe-editor.php:1955
+#: metaboxes/library/vibe-editor.php:2071
+msgid ""
+"* On-Load CSS3 Animation effect on the block (<a href=\"http://vibethemes."
+"com/documentation/wplms/knowledge-base/css3-transitions-in-page-builder/\" "
+"target=\"_blank\">more</a>)"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:1897
+msgid "Parallax Content"
+msgstr "محتوای پارالکس "
+
+#: metaboxes/library/vibe-editor.php:1902
+msgid "Parallax Title"
+msgstr "عنوان پارالکس "
+
+#: metaboxes/library/vibe-editor.php:1910
+msgid "Upload Parallax Background image"
+msgstr "آپلود تصویر پس زمینه پارالکس "
+
+#: metaboxes/library/vibe-editor.php:1915
+msgid "Background Effect"
+msgstr "افکت پس زمینه"
+
+#: metaboxes/library/vibe-editor.php:1918
+msgid "Image Scrolls with scroll"
+msgstr "تصویر با اسکرول حرکت کند"
+
+#: metaboxes/library/vibe-editor.php:1919
+msgid "Image Static with Scroll"
+msgstr "تصویر با اسکرول ثابت بماند"
+
+#: metaboxes/library/vibe-editor.php:1920
+msgid "Full Parallax Static with Scroll"
+msgstr "تمام پارالکس ایستا هنگام اسکرول"
+
+#: metaboxes/library/vibe-editor.php:1925
+msgid "Parallax Block Height (in px)"
+msgstr "ارتفاع بلوک پارالکس (به px)"
+
+#: metaboxes/library/vibe-editor.php:1930
+msgid "Parallax value (Scroll senstivity, lower value means higher scroll)"
+msgstr "مقدار پارالکس (حساس به اسکرول , مقدار کمتر به معنای اسکرول بیشتر است)"
+
+#: metaboxes/library/vibe-editor.php:1935
+msgid "Adjust background (in px)"
+msgstr "تنظیم پس زمینه (به px)"
+
+#: metaboxes/library/vibe-editor.php:1940
+msgid "Top Padding(in px)"
+msgstr "Padding بالا (به px)"
+
+#: metaboxes/library/vibe-editor.php:1945
+msgid "Bottom Padding(in px)"
+msgstr "Padding پایین (به px)"
+
+#: metaboxes/library/vibe-editor.php:1983
+msgid "Featured Content"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:1988
+msgid "reference Title"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:1991
+msgid "Content Style"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:1997
+msgid "Upload Image (Optional)"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2002
+msgid "Select Icon (Optional)"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2012
+msgid "Style settings"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2017
+msgid "Icon Size/Image Width (in px)"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2022
+msgid "Icon Color"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2027
+msgid "Top Padding / Top Spacing (in px)"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2032
+msgid "Bottom Padding / Bottom Spacing (in px)"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2037
+msgid "Background Color"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2042
+msgid "Text Color"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2047
+msgid "Border"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2056
+msgid "Border width"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2061
+msgid "border Color"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2094
+msgid "Member Carousels/Rotating Blocks"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2139
+msgid "Select member type"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2146
+msgid "Or Enter Specific Member Ids"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2151
+msgid "Enter Profile fields (comma saperated field \"names\")"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2156
+msgid "Display Style"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2240
+msgid "Revolution Slider"
+msgstr "اسلایدر روولوشن"
+
+#: metaboxes/library/vibe-editor.php:2243
+#: metaboxes/library/vibe-editor.php:2286
+msgid "Select Slider"
+msgstr "انتخاب اسلایدر"
+
+#: metaboxes/library/vibe-editor.php:2283
+msgid "Layer Slider"
+msgstr "اسلایدر لایه ای"
+
+#: metaboxes/library/vibe-editor.php:2312
+msgid "Course Category Carousel"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2320
+msgid "Include Term Slugs (optional, comma saperated)"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2328
+msgid "Description"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2328
+msgid "Custom Order"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2334
+msgid "Decending"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2334
+msgid "Ascending"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2405
+msgid "Select a Sidebar"
+msgstr "انتخاب یک نوار کناری"
+
+#: metaboxes/library/vibe-editor.php:2408
+msgid "MainSidebar"
+msgstr "نوار کناری اصلی"
+
+#: metaboxes/library/vibe-editor.php:2432
+msgid "FlexSlider"
+msgstr "اسلایدر Flex"
+
+#: metaboxes/library/vibe-editor.php:2435
+msgid "Slider ID (for reference & Css)"
+msgstr "شناسه اسلایدر (برای reference & Css)"
+
+#: metaboxes/library/vibe-editor.php:2440
+msgid "Slide Style"
+msgstr "استایل اسلاید"
+
+#: metaboxes/library/vibe-editor.php:2452
+msgid "Animation Effect"
+msgstr "افکت انیمیشن"
+
+#: metaboxes/library/vibe-editor.php:2454
+msgid "fade"
+msgstr "محو"
+
+#: metaboxes/library/vibe-editor.php:2454
+msgid "slide"
+msgstr "اسلاید"
+
+#: metaboxes/library/vibe-editor.php:2459
+msgid "Slider settings"
+msgstr "تنظیمات اسلایدر"
+
+#: metaboxes/library/vibe-editor.php:2464
+msgid "Auto slide Images"
+msgstr "تصاویر با اسلاید خودکار"
+
+#: metaboxes/library/vibe-editor.php:2470
+msgid "Loop Slides"
+msgstr "اسلایدهای حلقه ای"
+
+#: metaboxes/library/vibe-editor.php:2476
+msgid "Randomize Slides"
+msgstr "تصادفی کردن اسلایدها"
+
+#: metaboxes/library/vibe-editor.php:2482
+msgid "Show Slider Direction arrows"
+msgstr "نمایش نشانگرهای اسلایدر"
+
+#: metaboxes/library/vibe-editor.php:2488
+msgid "Show Slider Control buttons"
+msgstr "نمایش دکمه های کنترل اسلایدر"
+
+#: metaboxes/library/vibe-editor.php:2494
+msgid "Animation Duration (in ms)"
+msgstr "مدت زمان انیمیشن (به ms)"
+
+#: metaboxes/library/vibe-editor.php:2500
+msgid "Auto Animation Speed (in ms)"
+msgstr "سرعت انیمیشن خودکار (به ms)"
+
+#: metaboxes/library/vibe-editor.php:2505
+msgid "Pause Slider On Hover"
+msgstr "توقف اسلایدر هنگام هاور"
+
+#: metaboxes/library/vibe-editor.php:2537
+msgid "1/2 Column"
+msgstr "1/2 ستون"
+
+#: metaboxes/library/vibe-editor.php:2538
+msgid "1/3 Column"
+msgstr "1/3 ستون"
+
+#: metaboxes/library/vibe-editor.php:2539
+msgid "1/4 Column"
+msgstr "1/3 ستون"
+
+#: metaboxes/library/vibe-editor.php:2540
+msgid "1/4 Column & 1/2 Column"
+msgstr "1/4 ستون و 1/2 ستون"
+
+#: metaboxes/library/vibe-editor.php:2541
+msgid "2/3 Column"
+msgstr "2/3 ستون"
+
+#: metaboxes/library/vibe-editor.php:2542
+msgid "3/4 Column"
+msgstr "3/4 ستون"
+
+#: metaboxes/library/vibe-editor.php:2543
+msgid "Full-Width Resizable Column"
+msgstr "عرض تمام صفحه با ستون های قابل تنظیم"
+
+#: metaboxes/library/vibe-editor.php:2544
+msgid "FullScreen Stripe with Container"
+msgstr "راه راه تمام صفحه همراه CONTAINER"
+
+#: metaboxes/library/vibe-editor.php:2545
+msgid "FullScreen Stripe"
+msgstr "راه راه تمام صفحه"
+
+#: metaboxes/library/vibe-editor.php:2570
+msgid "COLUMNS"
+msgstr "ستون ها"
+
+#: metaboxes/library/vibe-editor.php:2571
+msgid "CONTENT"
+msgstr "محتوا"
+
+#: metaboxes/library/vibe-editor.php:2572
+msgid "SAVED LAYOUTS"
+msgstr "طرح های ذخیره شده"
+
+#: metaboxes/library/vibe-editor.php:2623
+msgid "Enter name of Sample Layout"
+msgstr "نام طرح نمونه را وارد کنید"
+
+#: metaboxes/library/vibe-editor.php:2624
+msgid "Save Layout"
+msgstr "ذخیره طرح"
+
+#: metaboxes/library/vibe-editor.php:2634
+#: metaboxes/library/vibe-editor.php:2730
+#: metaboxes/library/vibe-editor.php:2856
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: metaboxes/library/vibe-editor.php:2635
+msgid "Save as New Layout"
+msgstr "ذخیره به عنوان طرح جدید"
+
+#: metaboxes/library/vibe-editor.php:2636
+msgid "Generated Shortcode"
+msgstr "کدهای کوتاه تولید شده"
+
+#: metaboxes/library/vibe-editor.php:2930
+msgid "Show Page Content"
+msgstr "نمایش محتوای صفحه"
+
+#: metaboxes/meta_box.php:380 metaboxes/meta_box.php:542
+#: metaboxes/meta_box.php:546
+#, php-format
+msgid "Select a %s"
+msgstr "یک %s را انتخاب کنید:"
+
+#: metaboxes/meta_box.php:391
+#, php-format
+msgid "Select multiple %s"
+msgstr "انتخاب چند %s"
+
+#: metaboxes/meta_box.php:469
+msgid "Latitude"
+msgstr "عرض جغرافیایی"
+
+#: metaboxes/meta_box.php:470
+msgid "Longitude"
+msgstr "طول جغرافیایی"
+
+#: metaboxes/meta_box.php:471
+msgid "Closest Matching Address"
+msgstr "نزدیک ترین آدرس منطبق"
+
+#: metaboxes/meta_box.php:474
+msgid "Street Address"
+msgstr "آدرس خیابان"
+
+#: metaboxes/meta_box.php:475
+msgid "City"
+msgstr "شهر"
+
+#: metaboxes/meta_box.php:476
+msgid "State"
+msgstr "استان"
+
+#: metaboxes/meta_box.php:477
+msgid "Zip/Pin Code"
+msgstr "کد Zip/Pin"
+
+#: metaboxes/meta_box.php:478
+msgid "Country"
+msgstr "کشور"
+
+#: metaboxes/meta_box.php:486
+msgid "Select a group"
+msgstr ""
+
+#: metaboxes/meta_box.php:495 metaboxes/meta_box.php:518
+msgid "Buddypress Groups is not Active"
+msgstr "گروه های Buddypress فعال نمی باشند"
+
+#: metaboxes/meta_box.php:503
+msgid "Select groups"
+msgstr "انتخاب گروه ها"
+
+#: metaboxes/meta_box.php:524
+msgid "Add Section"
+msgstr "افزودن بخش"
+
+#: metaboxes/meta_box.php:555
+msgid "Select "
+msgstr "انتخاب کنید"
+
+#: metaboxes/meta_box.php:566
+msgid "Select Taxonomy"
+msgstr "انتخاب تاکسونومی"
+
+#: metaboxes/meta_box.php:584 metaboxes/meta_box.php:704
+#: metaboxes/meta_box.php:725 metaboxes/meta_box.php:743
+#: metaboxes/meta_box.php:763 metaboxes/meta_box.php:793
+msgid "Add More"
+msgstr "افزودن بیشتر"
+
+#: metaboxes/meta_box.php:635 metaboxes/meta_box.php:650
+msgid "Number of questions to pull"
+msgstr ""
+
+#: metaboxes/meta_box.php:636
+msgid "Marks for pulled questions"
+msgstr ""
+
+#: metaboxes/meta_box.php:643
+msgid "Select Tag"
+msgstr ""
+
+#: metaboxes/meta_box.php:651
+msgid "Marks per question"
+msgstr ""
+
+#: metaboxes/meta_box.php:655
+msgid "Total Question Count :"
+msgstr ""
+
+#: metaboxes/meta_box.php:655
+msgid "Total Marks :"
+msgstr ""
+
+#: metaboxes/meta_box.php:677
+msgid "Choose Image"
+msgstr ""
+
+#: metaboxes/meta_box.php:678
+msgid "Remove Image"
+msgstr ""
+
+#: metaboxes/meta_box.php:683
+msgid "Add Question"
+msgstr "افزودن سوال"
+
+#: metaboxes/meta_box.php:696 metaboxes/meta_box.php:697
+msgid "Type Question"
+msgstr "نوشتن سوال"
+
+#: metaboxes/meta_box.php:808 metaboxes/meta_box.php:817
+msgid "Marks for a Correct answer"
+msgstr "نمره برای یک پاسخ درست"
+
+#: metaboxes/meta_box.php:821
+msgid "Total marks for the Quiz :"
+msgstr "مجموع نمرات برای آزمون:"
+
+#: metaboxes/meta_box.php:847
+msgid "Delete image"
+msgstr "حذف تصویر"
+
+#: metaboxes/meta_box.php:847 metaboxes/meta_box.php:910
+#: metaboxes/meta_box.php:989 metaboxes/meta_box.php:1052
+#: metaboxes/meta_box.php:1131 metaboxes/meta_box.php:1194
+msgid "Delete"
+msgstr "حذف"
+
+#: metaboxes/meta_box.php:861
+msgid "Add Gallery images"
+msgstr "افزودن تصاویر گالری"
+
+#: metaboxes/meta_box.php:887
+msgid "Add Images to Gallery"
+msgstr "افزودن تصاویر به گالری"
+
+#: metaboxes/meta_box.php:889
+msgid "Add to Gallery"
+msgstr "افزودن به گالری"
+
+#: metaboxes/meta_box.php:989
+msgid "Delete audio file"
+msgstr "حذف فایل صوتی"
+
+#: metaboxes/meta_box.php:1003
+msgid "Add Audio Files"
+msgstr "افزودن فایل های صوتی"
+
+#: metaboxes/meta_box.php:1029 metaboxes/meta_box.php:1031
+msgid "Add Audio"
+msgstr "افزودن صوت"
+
+#: metaboxes/meta_box.php:1131
+msgid "Delete video file"
+msgstr "حذف فایل ویدئویی"
+
+#: metaboxes/meta_box.php:1145 metaboxes/meta_box.php:1171
+msgid "Add Video Files"
+msgstr "افزودن فایل های ویدئویی"
+
+#: metaboxes/meta_box.php:1173
+msgid "Add Video"
+msgstr "افزودن ویدئو"
+
+#~ msgid "Account Activation Email"
+#~ msgstr "ایمیل فعال سازی حساب کاربری"
+
+#~ msgid "Forgot Password Email"
+#~ msgstr "ایمیل فراموشی رمز عبور"
+
+#~ msgid "Email Template"
+#~ msgstr "قالب ایمیل"
+
+#~ msgid "Enable HTML emails"
+#~ msgstr "فعالسازی ایمیل HTML"
+
+#~ msgid "Enable HTML emails in WPLMS. (* Also save email template)"
+#~ msgstr "فعالسازی ایمیل HTML در WPLMS. (*همچنین ذخیره قالب ایمیل)"
+
+#~ msgid "From Name in emails"
+#~ msgstr "از نام در ایمیل ها"
+
+#~ msgid "From Email in emails"
+#~ msgstr "از ایمیل در ایمیل ها"
+
+#~ msgid "Charset"
+#~ msgstr "کاراکتر ست"
+
+#~ msgid "Set email charset"
+#~ msgstr "تنظیم کاراکتر ست ایمیل"
+
+#~ msgid "Subject"
+#~ msgstr "موضوع"
+
+#~ msgid "Subject in Activation email"
+#~ msgstr "موضوع در ایمیل فعال سازی"
+
+#~ msgid "Message (supports HTML)"
+#~ msgstr "پیغام (از HTML پشتیبانی می کند)"
+
+#~ msgid ""
+#~ "Activation email message, use {{activationlink}} to add the activation "
+#~ "link"
+#~ msgstr ""
+#~ "پیغام ایمیل فعال سازی، از  {{activationlink}}  برای افزودن لینک فعال سازی "
+#~ "استفاده کنید"
+
+#~ msgid "Subject in forgot password email"
+#~ msgstr "موضوع در ایمیل فراموشی رمز عبور"
+
+#~ msgid ""
+#~ "Forgot password mail message, user {{forgotlink}} to add the forgot "
+#~ "password link, {{username}} to add User login name"
+#~ msgstr ""
+#~ "پیغام ایمیل فراموشی رمز عبور، از  {{forgotlink}}  برای افزودن لینک "
+#~ "فراموشی رمز عبور استفاده کنید،  {{username}}  برای افزودن لینک نام کاربری "
+#~ "استفاده کنید."
+
+#~ msgid "Schedule Drip Feed Email"
+#~ msgstr "زمانبندی ایمیل قطره چکانی"
+
+#~ msgid "Drip Feed Mail Subject"
+#~ msgstr "عنوان ایمیل قطره چکانی"
+
+#~ msgid "Drip Feed Mail Message (supports HTML)"
+#~ msgstr "پیغام ایمیل قطره چکانی (از HTML پشتیبانی می کند)"
+
+#~ msgid ""
+#~ "{{unit}} for Unit name, {{course}} for Course name & link, {{user}} for "
+#~ "User name"
+#~ msgstr ""
+#~ "{{unit}} برای نام جلسه، {{course}}  برای نام و لینک دوره، {{user}}  برای "
+#~ "نام کاربری"
+
+#~ msgid "Schedule Course Expiry Email"
+#~ msgstr "زمانبندی ایمیل انقضاء دوره"
+
+#~ msgid "Course Expire Mail Subject"
+#~ msgstr "عنوان ایمیل انقضاء دوره"
+
+#~ msgid "Course expire Mail Message (supports HTML)"
+#~ msgstr "پیغام ایمیل انقضاء دوره (از HTML پشتیبانی می کند)"
+
+#~ msgid "{{course}} for Course name & link, {{user}} for User name"
+#~ msgstr "{{course}} برای نام و لینک دوره، {{user}}  برای نام کاربری"
+
+#~ msgid "Customize Template"
+#~ msgstr "پیکربندی قالب"
+
+#~ msgid "Email Bg"
+#~ msgstr "رنگ پس زمینه ایمیل"
+
+#~ msgid "Email Color"
+#~ msgstr "رنک فونت ایمیل"
+
+#~ msgid "Title Bg"
+#~ msgstr "رنگ پس زمینه عنوان"
+
+#~ msgid "Title Color"
+#~ msgstr "رنگ فونت عنوان"
+
+#~ msgid "Greetings BG"
+#~ msgstr "رنگ پس زمینه خوش آمد گویی"
+
+#~ msgid "Greetings Color"
+#~ msgstr "رنگ فونت خوش آمد گویی"
+
+#~ msgid "Message BG"
+#~ msgstr "رنگ پس زمینه پیغام"
+
+#~ msgid "Message Color"
+#~ msgstr "رنگ فونت پیغام"
+
+#~ msgid "Sender BG"
+#~ msgstr "رنگ پس زمینه ارسال کننده"
+
+#~ msgid "Sender Color"
+#~ msgstr "رنگ فونت ارسال کننده"
+
+#~ msgid "Item BG"
+#~ msgstr "رنگ پس زمینه آیتم"
+
+#~ msgid "Item Color"
+#~ msgstr "رنگ فونت آیتم"
+
+#~ msgid "Footer BG"
+#~ msgstr "رنگ پس زمینه پابرگ"
+
+#~ msgid "Footer Color"
+#~ msgstr "رنگ فونت پابرگ"
+
+#~ msgid "View Generated Template"
+#~ msgstr "مشاهده قالب تولید شده"
+
+#~ msgid "Restore Default"
+#~ msgstr "بازنشانی به تنظیمات پیش فرض"
+
+#~ msgid "Apply Changes"
+#~ msgstr "اعمال تغییرات"
+
+#~ msgid "Template saved"
+#~ msgstr "قالب ذخیره شد"
+
+#~ msgid "Marks per Question in Dynamic Quiz"
+#~ msgstr "نمره دهی به هر سوال در آزمون پویا"
+
+#~ msgid ""
+#~ "Enter the number of marks per Questions in the dynamic quiz. (required if "
+#~ "dynamic enabled)."
+#~ msgstr "نمره هر سوال در آزمون پویا را وارد کنید. (الزامی برای آزمون پویا)"
+
+#, fuzzy
+#~ msgid "Ninja Forms ID for Instructor Signup (Optional, no longer required)"
+#~ msgstr "تنظیم شناسه Ninja Form برای ثبت نام استاد"
+
+#, fuzzy
+#~ msgid "Connect Ninja Form ID for Make instructor button in form"
+#~ msgstr "تنظیم شناسه Ninja Form برای ثبت نام استاد"
+
+#~ msgid "Integrated MyCred points system in WPLMS"
+#~ msgstr "ادغام امتیاز MyCred در سیستم آموزش WPLMS"
+
+#~ msgid ""
+#~ "Enter the number of Questions in the dynamic quiz. (required if dynamic "
+#~ "enabled)."
+#~ msgstr "تعداد سوالات آزمون پویا را وارد کنید(الزامی در حالت پویا)"
+
+#~ msgid "Student progress to next"
+#~ msgstr "پیشرفت دانشجو به بعدی"
+
+#~ msgid "LMS"
+#~ msgstr "سامانه آموزشی"
+
+# @ vibe-customtypes
+#~ msgid ""
+#~ "Student can purchase/access courses by using custom defined codes for "
+#~ "courses in course pricing section"
+#~ msgstr ""
+#~ "دانشجو می تواند با استفاده از کد های اختصاصی تعریف شده در بخش قیمت گذاری "
+#~ "دوره ها، اقدام به خرید/دسترسی به دوره نماید"
+
+#~ msgid "Deactivate"
+#~ msgstr "غیرفعال کردن"
+
+#~ msgid "Activate"
+#~ msgstr "فعالسازی"
+
+#~ msgctxt "slug"
+#~ msgid "course-cat"
+#~ msgstr "دسته بندی دوره "
+
+# @ vibe-customtypes
+#~ msgctxt "default-slug"
+#~ msgid "course"
+#~ msgstr "دوره"
+
+# @ vibe-customtypes
+#~ msgctxt "slug"
+#~ msgid "course"
+#~ msgstr "دوره"
+
+# @ vibe-customtypes
+#~ msgctxt "default-slug"
+#~ msgid "shop"
+#~ msgstr "فروشگاه"
+
+#~ msgid "Assignment :"
+#~ msgstr "تکلیف:"
+
+#~ msgid "Take this Course"
+#~ msgstr "شرکت در دوره"
+
+#~ msgid "Course code applied"
+#~ msgstr "کد دوره اعمال شد"
+
+#~ msgid "Payments History"
+#~ msgstr "تاریخچه پرداخت ها"
+
+#~ msgid "Duration between consecutive Drip feed units (in "
+#~ msgstr "مدت زمان بین جلسات قطره چکان متوالی (به "
+
+#~ msgid "Survey/Practice Settings"
+#~ msgstr "تنظیمات بررسی/تمرین"
+
+#~ msgid "Comments"
+#~ msgstr "دیدگاه ها"
+
+#~ msgid "Instructor Signup Ninja Forms Form ID"
+#~ msgstr "شناسه فرم ثبت نام  Ninja Forms استاد"
+
+#, fuzzy
+#~ msgid "Course Directory / Category"
+#~ msgstr "دسته بندی دوره"
+
+#, fuzzy
+#~ msgid "Quiz Course"
+#~ msgstr "دوره ها"
+
+#, fuzzy
+#~ msgid "Unit Course"
+#~ msgstr "دوره ها"
+
+#~ msgid "Select One"
+#~ msgstr "یکی را انتخاب کنید"
+
+#~ msgid "Show Lightbox button on image hover[Opens Full image]"
+#~ msgstr "نمایش دکمه لایت باکس در هاور تصویر[باز کردن تصویر کامل]"
+
+#~ msgid "Show Lightbox [Opens Full image]"
+#~ msgstr "نمایش لایت باکس [باز کردن تصویر کامل]"
+
+#~ msgid "Adds a Back to Course button, on quiz submission."
+#~ msgstr "افزودن دکمه بازگشت به دوره در ارسال آزمون."
+
+#~ msgid "Answer Explaination"
+#~ msgstr "توضیحات پاسخ"
+
+#~ msgid "Add Answer explaination"
+#~ msgstr "افزودن توضیحات پاسخ"
+
+#~ msgid "Enable Print"
+#~ msgstr "فعال سازی چاپ"
+
+#~ msgid "Displays a Print Button on top right corner of certificate"
+#~ msgstr "نمایش دکمه چاپ در گوشه چپ بالای گواهینامه"
+
+#~ msgid ""
+#~ " USE FOLLOWING SHORTCODES TO DISPLAY RELEVANT DATA : <br />1. "
+#~ "<strong>[certificate_student_name]</strong> : Displays Students Name<br /"
+#~ ">2. <strong>[certificate_course]</strong> : Displays Course Name<br />3. "
+#~ "<strong>[certificate_student_marks]</strong> : Displays Students Marks in "
+#~ "Course<br />4. <strong>[certificate_student_date]</strong>: Displays date "
+#~ "on which Certificate was awarded to the Student<br />5. "
+#~ "<strong>[certificate_student_email]</strong>: Displays registered email "
+#~ "of the Student<br />6. <strong>[certificate_code]</strong>: Generates "
+#~ "unique code for Student which can be validated from Certificate page."
+#~ msgstr ""
+#~ " برای مشاهده اطلاعات مرتبط از کدهای کوتاه روبرو استفاده کنید : <br />1. "
+#~ "<strong>[certificate_student_name]</strong> : نمایش نام دانشجو<br />2. "
+#~ "<strong>[certificate_course]</strong> : نمایش نام دوره<br />3. "
+#~ "<strong>[certificate_student_marks]</strong> : نمایش نمره دانشجو در "
+#~ "دوره<br />4. <strong>[certificate_student_date]</strong>: نمایشی تاریخ "
+#~ "اعطای گواهینامه<br />5. <strong>[certificate_student_email]</strong>: "
+#~ "نمایش ایمیل ثبت شده دانشجو<br />6. <strong>[certificate_code]</strong>: "
+#~ "تولید کد منحصر به فرد برای دانشجویی که می تواند از صفحه گواهینامه "
+#~ "اعتبارسنجی شود"
+
+#~ msgid "Upload file"
+#~ msgstr "آپلود فایل"
+
+#~ msgid "Text Area"
+#~ msgstr "نوشتن متن"
+
+#~ msgid "From:"
+#~ msgstr "از:"
+
+#~ msgid "To:"
+#~ msgstr "تا:"
+
+#~ msgid "Badges"
+#~ msgstr "مدال ها"
+
+#~ msgid "Certificates"
+#~ msgstr "گواهینامه ها"
+
+#~ msgid "Average"
+#~ msgstr "معدل"
+
+#~ msgid "Student"
+#~ msgstr "دانشجو"
+
+#~ msgid "Score"
+#~ msgstr "نمره"
+
+#~ msgid "FREE"
+#~ msgstr "رایگان"
+
+#~ msgid " Hours"
+#~ msgstr "ساعت"
+
+#~ msgid "minutes"
+#~ msgstr "دقیقه"
+
+#~ msgid "Current position:"
+#~ msgstr "موقعیت فعلی:"
+
+#~ msgid "ADD UNIT"
+#~ msgstr "افزودن جلسه"
+
+#~ msgid "ADD QUIZ"
+#~ msgstr "افزودن آزمون"
+
+#~ msgid "Show Read More link"
+#~ msgstr "نمایش لینک \"بیشتر بخوانید\""
+
+#~ msgid "MEMBERSHIP"
+#~ msgstr "عضویت"
+
+#~ msgid "course_limit"
+#~ msgstr "محدودیت دوره"
+
+#~ msgid "number"
+#~ msgstr "تعداد"
+
+#~ msgid "unit_limit"
+#~ msgstr "محدودیت جلسات"
+
+#~ msgid "quiz_limit"
+#~ msgstr "محدودیت آزمون"
+
+#~ msgid "publish"
+#~ msgstr "انتشار"
+
+#~ msgid "payments"
+#~ msgstr "پرداخت ها"
+
+#~ msgid "Single Choice"
+#~ msgstr "تک انتخابی"
+
+#~ msgid "Send Notification upon evaluation"
+#~ msgstr "ارسال اعلانیه هنگام ارزیابی "
+
+#~ msgid "Student recieve notification when quiz is evaluated."
+#~ msgstr "دریافت اعلانیه توسط دانشجو بعد از اتمام ارزیابی آزمون"
+
+#~ msgid "Quiz questions"
+#~ msgstr "سوالات آزمون"
+
+#~ msgid "No Level Selected"
+#~ msgstr "هیچ سطحس انتخاب نشده است"
+
+#~ msgid "ID"
+#~ msgstr "شناسه"
+
+#~ msgid "Field Name"
+#~ msgstr "نام زمینه"
+
+#~ msgid "Set Field"
+#~ msgstr "مقداردهی"
+
+#~ msgid "Student ID"
+#~ msgstr "شناسه دانشجو"
+
+#, fuzzy
+#~ msgid "Media"
+#~ msgstr "جستجوی رسانه"
+
+#, fuzzy
+#~ msgid "Gallery"
+#~ msgstr "گالری اضافه شد."
+
+#, fuzzy
+#~ msgid "Self Hosted Video"
+#~ msgstr "ویدئویی"
+
+#, fuzzy
+#~ msgid "IFrame Video"
+#~ msgstr "ویدئویی"
+
+#, fuzzy
+#~ msgid "Self Hosted Audio"
+#~ msgstr "صوتی"
+
+#, fuzzy
+#~ msgid "Create a Gallery in post."
+#~ msgstr "گالری اضافه شد."
+
+#, fuzzy
+#~ msgid "IFRAME Video"
+#~ msgstr "ویدئویی"
